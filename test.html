@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wind Turbine Vortex Field</title>
+  <style>
+    body { margin: 0; overflow: hidden; }
+    canvas { display: block; }
+  </style>
+</head>
+<body>
+  <script type="module">
+   import * as THREE from './three/tree.js';
+   import { OrbitControls } from './three/OrbitControls.js';
+
+    let scene, camera, renderer, controls;
+    const particles = [];
+    const speedField = [];
+    const step = 0.5;
+    const maxTrail = 50;
+
+    init();
+    loadData();
+
+    function init() {
+      scene = new THREE.Scene();
+      camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 1000);
+      camera.position.set(0, 0, 30);
+
+      renderer = new THREE.WebGLRenderer({ antialias: true });
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      document.body.appendChild(renderer.domElement);
+
+      // 使用导入的 OrbitControls
+      controls = new OrbitControls(camera, renderer.domElement);
+
+      const light = new THREE.DirectionalLight(0xffffff, 1);
+      light.position.set(10, 10, 10);
+      scene.add(light);
+
+      window.addEventListener('resize', () => {
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+      });
+
+      animate();
+    }
+
+    function loadData() {
+      fetch('windturbine_vortex_field.json')
+        .then(res => res.json())
+        .then(data => {
+          data.forEach(d => speedField.push(d));
+          initParticles();
+          drawVectorArrows();
+        });
+    }
+
+    function getVelocityAt(x, y, z) {
+      let nearest = speedField[0];
+      let minDist = Infinity;
+      for (let i = 0; i < speedField.length; i++) {
+        const d = speedField[i];
+        const dist = (x - d.x)**2 + (y - d.y)**2 + (z - d.z)**2;
+        if (dist < minDist) {
+          minDist = dist;
+          nearest = d;
+        }
+      }
+      return new THREE.Vector3(nearest.vx, nearest.vy, nearest.vz);
+    }
+
+    function initParticles() {
+      for (let i = 0; i < 500; i++) {
+        const pos = new THREE.Vector3(
+          (Math.random() - 0.5) * 20,
+          (Math.random() - 0.5) * 20,
+          (Math.random() - 0.5) * 10
+        );
+        const geometry = new THREE.BufferGeometry().setFromPoints([pos]);
+        const material = new THREE.LineBasicMaterial({ color: 0x00ffff });
+        const line = new THREE.Line(geometry, material);
+        line.userData = { trail: [pos.clone()] };
+        particles.push(line);
+        scene.add(line);
+      }
+    }
+
+    function drawVectorArrows() {
+      for (let i = 0; i < speedField.length; i += 100) {
+        const d = speedField[i];
+        const origin = new THREE.Vector3(d.x, d.y, d.z);
+        const dir = new THREE.Vector3(d.vx, d.vy, d.vz).normalize();
+        const length = Math.min(1.5, dir.length());
+        const arrow = new THREE.ArrowHelper(dir, origin, length, 0xffaa00);
+        scene.add(arrow);
+      }
+    }
+
+    function animate() {
+      requestAnimationFrame(animate);
+
+      particles.forEach(p => {
+        const trail = p.userData.trail;
+        const pos = trail[trail.length - 1].clone();
+        const v = getVelocityAt(pos.x, pos.y, pos.z).multiplyScalar(0.1);
+        pos.add(v);
+        trail.push(pos);
+        if (trail.length > maxTrail) trail.shift();
+        p.geometry.setFromPoints(trail);
+      });
+
+      renderer.render(scene, camera);
+    }
+  </script>
+</body>
+</html>
