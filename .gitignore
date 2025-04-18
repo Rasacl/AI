@@ -1,1 +1,19 @@
 **/node_modules/
+# Python virtual environment
+vety/lib
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
