@@ -13,7 +13,7 @@ python -m venv 文件名
 
 ### 退出虚拟环境
 ```
-.\文件名\Scripts\deactivate
+deactivate
 ```
 
 ### 下载包
