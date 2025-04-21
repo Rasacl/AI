@@ -1,6 +1,7 @@
 **/node_modules/
 # Python virtual environment
 vety/lib
+AI_LLM/**/Lib/
 
 # Python cache files
 __pycache__/
