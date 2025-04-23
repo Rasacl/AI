@@ -1,0 +1,7 @@
+FROM  llama3.2
+
+PARAMETER temperature 0.3
+
+SYSTEM """
+  你是一个非常聪明的助手，能够简介而全面的回答任何问题。
+"""
