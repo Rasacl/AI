@@ -1,0 +1,876 @@
+{
+  "data": [
+    {
+      "lonLat": [
+        116.290556,
+        39.986944
+      ],
+      "height": 46.9,
+      "radarType": [
+        "风廓线",
+        "气溶胶",
+        "毫米波测云仪",
+        "地基微波辐射计"
+      ],
+      "id": "54399",
+      "district": "海淀",
+      "name": "海淀国家天气雷达站（风廓线雷达）",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        115.968889,
+        40.449444
+      ],
+      "height": 489.4,
+      "radarType": [
+        "风廓线",
+        "气溶胶",
+        "毫米波测云仪",
+        "地基微波辐射计"
+      ],
+      "id": "54406",
+      "district": "延庆",
+      "name": "延庆国家天气雷达站（风廓线雷达）",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        117.111667,
+        40.658889
+      ],
+      "height": 286.5,
+      "radarType": [
+        "风廓线",
+        "毫米波测云仪",
+        "地基微波辐射计",
+        "GNSS MET"
+      ],
+      "id": "54421",
+      "district": "密云",
+      "name": "上甸子国家天气雷达站（风廓线雷达）",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        117.117778,
+        40.169444
+      ],
+      "height": 32.1,
+      "radarType": [
+        "风廓线",
+        "气溶胶",
+        "毫米波测云仪",
+        "地基微波辐射计"
+      ],
+      "id": "54424",
+      "district": "平谷",
+      "name": "平谷国家天气雷达站（风廓线雷达）",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.626944,
+        40.357778
+      ],
+      "height": 76.8,
+      "radarType": [
+        "风廓线",
+        "气溶胶",
+        "毫米波测云仪",
+        "地基微波辐射计",
+        "GNSS MET"
+      ],
+      "id": "54419",
+      "district": "怀柔",
+      "name": "怀柔国家天气雷达站（风廓线雷达）",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        115.740278,
+        39.728889
+      ],
+      "height": 409.4,
+      "radarType": [
+        "风廓线",
+        "气溶胶",
+        "毫米波测云仪",
+        "地基微波辐射计",
+        "GNSS MET"
+      ],
+      "id": "54597",
+      "district": "房山",
+      "name": "霞云岭国家天气雷达站（风廓线雷达）",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.469444,
+        39.806111
+      ],
+      "height": 32.5,
+      "radarType": [
+        "风廓线",
+        "气溶胶",
+        "地基微波辐射计",
+        "GNSS MET"
+      ],
+      "id": "54511",
+      "district": "大兴",
+      "name": "北京国家天气雷达站",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.150278,
+        40.618056
+      ],
+      "height": 440.1,
+      "radarType": [
+        "气溶胶",
+        "毫米波测云仪",
+        "地基微波辐射计"
+      ],
+      "id": "54501",
+      "district": "门头沟",
+      "name": "斋堂",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        115.485278,
+        40.035833
+      ],
+      "height": 1654.7,
+      "radarType": [
+        "气溶胶",
+        "毫米波测云仪",
+        "地基微波辐射计",
+        "GNSS MET"
+      ],
+      "id": "A1351",
+      "district": "门头沟",
+      "name": "灵山",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.251667,
+        40.468611
+      ],
+      "height": 85.5,
+      "radarType": [
+        "气溶胶",
+        "毫米波测云仪",
+        "地基微波辐射计"
+      ],
+      "id": "54505",
+      "district": "门头沟",
+      "name": "门头沟",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.235,
+        40.884444
+      ],
+      "height": 1418.0,
+      "radarType": [
+        "气溶胶"
+      ],
+      "id": "A0452",
+      "district": "延庆",
+      "name": "闫家坪",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.317778,
+        40.283889
+      ],
+      "height": 48.6,
+      "radarType": [
+        "气溶胶",
+        "地基微波辐射计"
+      ],
+      "id": "54596",
+      "district": "房山",
+      "name": "房山",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.401389,
+        40.45
+      ],
+      "height": 55.0,
+      "radarType": [
+        "气溶胶",
+        "毫米波测云仪",
+        "地基微波辐射计"
+      ],
+      "id": "54514",
+      "district": "丰台",
+      "name": "丰台",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.401389,
+        39.918333
+      ],
+      "height": 42.1,
+      "radarType": [
+        "气溶胶",
+        "毫米波测云仪",
+        "地基微波辐射计"
+      ],
+      "id": "A0905",
+      "district": "东城",
+      "name": "东城区政府",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.083333,
+        40.583889
+      ],
+      "height": 34.4,
+      "radarType": [
+        "气溶胶",
+        "毫米波测云仪"
+      ],
+      "id": "54433",
+      "district": "朝阳",
+      "name": "朝阳",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.319167,
+        40.485833
+      ],
+      "height": 114.3,
+      "radarType": [
+        "气溶胶"
+      ],
+      "id": "A1406",
+      "district": "昌平",
+      "name": "太平庄",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.354722,
+        40.375833
+      ],
+      "height": 75.7,
+      "radarType": [
+        "毫米波测云仪"
+      ],
+      "id": "54499",
+      "district": "昌平",
+      "name": "昌平",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        117.035833,
+        41.216944
+      ],
+      "height": 33.1,
+      "radarType": [
+        "毫米波测云仪",
+        "地基微波辐射计"
+      ],
+      "id": "54412",
+      "district": "怀柔",
+      "name": "汤河口",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        115.718611,
+        39.568611
+      ],
+      "height": 112.3,
+      "radarType": [
+        "毫米波测云仪",
+        "地基微波辐射计",
+        "GNSS MET"
+      ],
+      "id": "A1309",
+      "district": "房山",
+      "name": "张坊",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        117.445,
+        40.6375
+      ],
+      "height": 71.4,
+      "radarType": [
+        "毫米波测云仪",
+        "GNSS MET"
+      ],
+      "id": "54416",
+      "district": "密云",
+      "name": "密云",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.217778,
+        41.000278
+      ],
+      "height": 1224.9,
+      "radarType": [
+        "毫米波测云仪",
+        "地基微波辐射计",
+        "GNSS MET"
+      ],
+      "id": "54410",
+      "district": "延庆",
+      "name": "佛爷顶",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.348056,
+        40.573611
+      ],
+      "height": 63.0,
+      "radarType": [
+        "毫米波测云仪"
+      ],
+      "id": "54513",
+      "district": "石景山",
+      "name": "石景山",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        117.018056,
+        40.201667
+      ],
+      "height": 27.9,
+      "radarType": [
+        "毫米波测云仪",
+        "地基微波辐射计"
+      ],
+      "id": "54398",
+      "district": "顺义",
+      "name": "顺义",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.595556,
+        40.207222
+      ],
+      "height": 37.5,
+      "radarType": [
+        "毫米波测云仪",
+        "地基微波辐射计"
+      ],
+      "id": "54594",
+      "district": "大兴",
+      "name": "大兴",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.184722,
+        39.883333
+      ],
+      "height": 53.6,
+      "radarType": [
+        "地基微波辐射计"
+      ],
+      "id": "A0906",
+      "district": "石景山",
+      "name": "冬奥大本营",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        117.251667,
+        40.401944
+      ],
+      "height": 19.8,
+      "radarType": [
+        "地基微波辐射计",
+        "GNSS MET"
+      ],
+      "id": "54431",
+      "district": "通州",
+      "name": "通州",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.800833,
+        40.551667
+      ],
+      "height": 157.0,
+      "radarType": [
+        "地基微波辐射计",
+        "GNSS MET"
+      ],
+      "id": "A1660",
+      "district": "密云",
+      "name": "黑龙潭",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.354444,
+        39.933056
+      ],
+      "height": 55.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1006",
+      "district": "西城",
+      "name": "官园",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.342222,
+        39.815833
+      ],
+      "height": 41.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1035",
+      "district": "丰台",
+      "name": "新发地",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.591111,
+        39.830556
+      ],
+      "height": 29.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1041",
+      "district": "朝阳",
+      "name": "郎各庄",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.090278,
+        40.08
+      ],
+      "height": 160.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1050",
+      "district": "海淀",
+      "name": "北安河",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.776389,
+        39.676944
+      ],
+      "height": 17.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1201",
+      "district": "通州",
+      "name": "永乐店",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.555278,
+        39.747222
+      ],
+      "height": 28.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1203",
+      "district": "通州",
+      "name": "马驹桥",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.723611,
+        39.758056
+      ],
+      "height": 22.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1215",
+      "district": "通州",
+      "name": "牛堡屯",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.325,
+        39.602778
+      ],
+      "height": 29.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1254",
+      "district": "大兴",
+      "name": "庞各庄",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.3475,
+        39.457778
+      ],
+      "height": 25.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1265",
+      "district": "大兴",
+      "name": "马家屯",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        115.882778,
+        39.820278
+      ],
+      "height": 168.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1310",
+      "district": "房山",
+      "name": "佛子庄",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        115.524722,
+        39.782222
+      ],
+      "height": 1136.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1312",
+      "district": "房山",
+      "name": "浦洼",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.138333,
+        39.677222
+      ],
+      "height": 39.2,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1339",
+      "district": "房山",
+      "name": "官道",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        115.893611,
+        40.073056
+      ],
+      "height": 406.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1365",
+      "district": "门头沟",
+      "name": "田庄",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.346389,
+        40.173056
+      ],
+      "height": 32.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1415",
+      "district": "昌平",
+      "name": "小汤山农业园",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        115.946111,
+        40.213611
+      ],
+      "height": 872.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1417",
+      "district": "昌平",
+      "name": "禾子涧",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        116.406111,
+        40.529722
+      ],
+      "height": 657.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1452",
+      "district": "延庆",
+      "name": "四海",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.486944,
+        40.596944
+      ],
+      "height": 587.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1456",
+      "district": "延庆",
+      "name": "小川",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        115.888611,
+        40.544167
+      ],
+      "height": 872.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1461",
+      "district": "延庆",
+      "name": "玉渡山",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.323889,
+        40.693333
+      ],
+      "height": 494.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1462",
+      "district": "延庆",
+      "name": "千家店",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.198333,
+        40.581389
+      ],
+      "height": 635.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1463",
+      "district": "延庆",
+      "name": "刘斌堡",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        115.782222,
+        40.451667
+      ],
+      "height": 511.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1464",
+      "district": "延庆",
+      "name": "东门营",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        115.9975,
+        40.357222
+      ],
+      "height": 632.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1468",
+      "district": "延庆",
+      "name": "八达岭",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.092222,
+        40.513611
+      ],
+      "height": 506.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1488",
+      "district": "延庆",
+      "name": "东龙湾",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        117.210556,
+        40.250278
+      ],
+      "height": 356.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1510",
+      "district": "平谷",
+      "name": "北寨",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.983056,
+        40.256111
+      ],
+      "height": 80.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1522",
+      "district": "平谷",
+      "name": "刘家店",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.914722,
+        40.086667
+      ],
+      "height": 35.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1553",
+      "district": "顺义",
+      "name": "大孙各庄",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.698333,
+        40.050278
+      ],
+      "height": 29.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1556",
+      "district": "顺义",
+      "name": "李桥",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.453889,
+        40.358056
+      ],
+      "height": 124.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1602",
+      "district": "怀柔",
+      "name": "九渡河",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.615278,
+        40.901111
+      ],
+      "height": 473.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1610",
+      "district": "怀柔",
+      "name": "喇叭沟门",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.531944,
+        40.471111
+      ],
+      "height": 588.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1623",
+      "district": "怀柔",
+      "name": "雁栖西栅子",
+      "status": "告警"
+    },
+    {
+      "lonLat": [
+        117.115556,
+        40.4
+      ],
+      "height": 245.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1654",
+      "district": "密云",
+      "name": "大城子",
+      "status": "可用"
+    },
+    {
+      "lonLat": [
+        116.754167,
+        40.650556
+      ],
+      "height": 273.0,
+      "radarType": [
+        "GNSS MET"
+      ],
+      "id": "A1659",
+      "district": "密云",
+      "name": "白河四合堂",
+      "status": "可用"
+    }
+  ]
+}
