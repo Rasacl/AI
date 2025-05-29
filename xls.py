@@ -42,8 +42,9 @@ for _, row in df.iterrows():
                 str(row['经度']),
                 str(row['纬度'])
             ],
+            "district": str(row['区县']),
             "height": str(random.randint(10, 800)),  # 随机生成10-800之间的高度
-            "status": random.choice(['可用', '告警']),  # 随机选择状态
+            "status": "在线",  # 随机选择状态
             "time": random_date(start_date, end_date)  # 随机生成2015-2025之间的日期
         }
         result['data'].append(station_data)
