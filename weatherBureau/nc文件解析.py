@@ -15,6 +15,7 @@ def nc_to_json(nc_file_path, json_file_path):
         
         # 获取所有变量及其值
         for var_name, variable in dataset.variables.items():
+            print(f"处理变量: {var_name}")
             # 处理数据
             raw_data = variable[:]
             if isinstance(raw_data, np.ndarray):
@@ -47,8 +48,8 @@ def nc_to_json(nc_file_path, json_file_path):
 if __name__ == '__main__':
     try:
         current_dir = Path(r'd:\project\self\AI\weatherBureau')
-        nc_file = current_dir / 'test.nc'
-        json_file = current_dir / 'output.json'
+        nc_file = current_dir / 'ndvi201907-clip.nc'
+        json_file = current_dir / 'output1.json'
         
         nc_to_json(str(nc_file), str(json_file))
         print(f"转换成功！JSON文件已保存到: {json_file}")
