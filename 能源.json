@@ -1,0 +1,8826 @@
+{
+  "data": [
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京市三一兰机有限公司",
+      "lonLat": [
+        116.102059,
+        40.213196
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京源深节能技术有限责任公司",
+      "lonLat": [
+        116.579554,
+        40.012488
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京汉隆新能源科技发辰有限贡任公司",
+      "lonLat": [
+        116.421093,
+        39.638238
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京京昉智意能源科技有限公司(北京商端制造业基地)",
+      "lonLat": [
+        116.073664,
+        39.671094
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京临空管乐能源管理有限公司",
+      "lonLat": [
+        116.549994,
+        40.426339
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京源深节能技术有限贡任公司",
+      "lonLat": [
+        116.861518,
+        40.380208
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京源深节能技术有限责任公司",
+      "lonLat": [
+        117.122733,
+        40.160545
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京首哭置业有限公司",
+      "lonLat": [
+        116.191233,
+        39.917884
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京源深节能技术有限责任公司",
+      "lonLat": [
+        116.670769,
+        39.905947
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京京城机电控股有限贡任公司",
+      "lonLat": [
+        115.99648,
+        40.479483
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京清英光伏科技有限公司",
+      "lonLat": [
+        116.537291,
+        39.786977
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京金融街(北京)置业有限公司",
+      "lonLat": [
+        116.369903,
+        39.930757
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京亚景圣诺尔能源科技有限公司(大钟寺蓝景丽家家具广场)",
+      "lonLat": [
+        116.34864,
+        39.973306
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京京丰热电有限贡任公司",
+      "lonLat": [
+        116.164892,
+        39.815671
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京诚安世纪医疗器械有限公司",
+      "lonLat": [
+        116.107073,
+        39.9582592
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京九朗光伏科技有限公司",
+      "lonLat": [
+        116.616411,
+        40.134458
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京天能电投(北京)新能源科技有限公司",
+      "lonLat": [
+        116.616411,
+        40.134458
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京建新鸿远光伏科技有限公司一",
+      "lonLat": [
+        115.788937,
+        39.546273
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京建新鸿远光伏科技有限公司二",
+      "lonLat": [
+        115.788937,
+        39.546273
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京京昉智意能源科技有限公司",
+      "lonLat": [
+        116.073664,
+        39.671094
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京科新思诺科技有限公司",
+      "lonLat": [
+        116.580546,
+        40.296091
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京北排装备产业有限公司",
+      "lonLat": [
+        116.544761,
+        39.965419
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京大齐鲁(北京)新型能源技术有限公司",
+      "lonLat": [
+        116.662463,
+        39.664376
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京北排新能源科技有限公司一",
+      "lonLat": [
+        116.406456,
+        39.851078
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京北排新能源科技有限公司二",
+      "lonLat": [
+        116.406456,
+        39.851078
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京北排新能源科技有限公司三",
+      "lonLat": [
+        116.375393,
+        40.041159
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京北排新能源科技有限公司四",
+      "lonLat": [
+        116.375393,
+        40.041159
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京恒安绿谷坏保科技有限公司",
+      "lonLat": [
+        117.015058,
+        40.190531
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京首清绿能新能源科技有限公司",
+      "lonLat": [
+        116.689189,
+        40.038004
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京源深节能技术有限贡任公司",
+      "lonLat": [
+        116.509902,
+        39.73585
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京京仪绿能电力系统工程有限公司一",
+      "lonLat": [
+        115.932549,
+        40.370685
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京京仪绿能电力系统工程有限公司二",
+      "lonLat": [
+        115.932549,
+        40.370685
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京京仪绿能电力系统工程有限公司三",
+      "lonLat": [
+        115.932549,
+        40.370685
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京京仪绿能电力系统工程有限公司四",
+      "lonLat": [
+        115.932549,
+        40.370685
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京中国科学院电工研究所",
+      "lonLat": [
+        115.990133,
+        40.442226
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京龙源(北京)新能源有限公司",
+      "lonLat": [
+        115.990133,
+        40.442226
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京中广核海丰光伏科技有限公司",
+      "lonLat": [
+        116.153973,
+        40.236684
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京京福鑫能新能源科技有限公司",
+      "lonLat": [
+        116.25681,
+        40.117728
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "风电站",
+      "stationName": "鹿鸣山风电场",
+      "lonLat": [
+        115.8167,
+        40.3833333
+      ],
+      "height": 32000,
+      "markerState": true
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "龙庆峡光伏电站",
+      "lonLat": [
+        116.0083,
+        40.52175
+      ],
+      "height": 32000,
+      "markerState": true
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "光伏电站",
+      "stationName": "北京华电密云光伏电站",
+      "lonLat": [
+        116.7615,
+        40.450728
+      ],
+      "height": 32000,
+      "markerState": true
+    },
+    {
+      "stationId": "A12035",
+      "stationType": "风电站",
+      "stationName": "青灰岭风电场",
+      "lonLat": [
+        115.88333,
+        40.2
+      ],
+      "height": 32000,
+      "markerState": true
+    },
+    {
+      "stationId": "1121101192391",
+      "stationType": "变电站",
+      "stationName": "兴业",
+      "lonLat": [
+        116.534211,
+        39.766952
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052299",
+      "stationType": "变电站",
+      "stationName": "朝阳公园",
+      "lonLat": [
+        116.481832,
+        39.935162
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192019",
+      "stationType": "变电站",
+      "stationName": "泰河",
+      "lonLat": [
+        116.487657,
+        39.763833
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082090",
+      "stationType": "变电站",
+      "stationName": "创新园",
+      "lonLat": [
+        116.187778,
+        40.064632
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052361",
+      "stationType": "变电站",
+      "stationName": "楼梓庄",
+      "lonLat": [
+        116.60198,
+        39.987048
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082422",
+      "stationType": "变电站",
+      "stationName": "宝盛里",
+      "lonLat": [
+        116.361249,
+        40.042356
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082199",
+      "stationType": "变电站",
+      "stationName": "六里屯",
+      "lonLat": [
+        116.247709,
+        40.050533
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062291",
+      "stationType": "变电站",
+      "stationName": "槐房",
+      "lonLat": [
+        116.364681,
+        39.809301
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082179",
+      "stationType": "变电站",
+      "stationName": "五路居",
+      "lonLat": [
+        116.284518,
+        39.932083
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052094",
+      "stationType": "变电站",
+      "stationName": "白家庄",
+      "lonLat": [
+        116.454191,
+        39.930979
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052453",
+      "stationType": "变电站",
+      "stationName": "安家楼",
+      "lonLat": [
+        116.470355,
+        39.958516
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052079",
+      "stationType": "变电站",
+      "stationName": "北工大",
+      "lonLat": [
+        116.4812,
+        39.873996
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052071",
+      "stationType": "变电站",
+      "stationName": "大郊亭",
+      "lonLat": [
+        116.467995,
+        39.882557
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052183",
+      "stationType": "变电站",
+      "stationName": "大屯",
+      "lonLat": [
+        116.399938,
+        40.010224
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052403",
+      "stationType": "变电站",
+      "stationName": "黄杉木",
+      "lonLat": [
+        116.515999,
+        39.917605
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052370",
+      "stationType": "变电站",
+      "stationName": "平乐园",
+      "lonLat": [
+        116.473758,
+        39.886267
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052065",
+      "stationType": "变电站",
+      "stationName": "三间房",
+      "lonLat": [
+        116.556889,
+        39.923474
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052020",
+      "stationType": "变电站",
+      "stationName": "小红门",
+      "lonLat": [
+        116.460386,
+        39.824286
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062105",
+      "stationType": "变电站",
+      "stationName": "大灰厂",
+      "lonLat": [
+        116.123771,
+        39.814698
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062064",
+      "stationType": "变电站",
+      "stationName": "科技园",
+      "lonLat": [
+        116.288626,
+        39.836602
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062264",
+      "stationType": "变电站",
+      "stationName": "李窑",
+      "lonLat": [
+        116.388464,
+        39.838744
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062170",
+      "stationType": "变电站",
+      "stationName": "六圈",
+      "lonLat": [
+        116.290497,
+        39.819639
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062144",
+      "stationType": "变电站",
+      "stationName": "卢沟桥",
+      "lonLat": [
+        116.252048,
+        39.842572
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062372",
+      "stationType": "变电站",
+      "stationName": "毛家坟",
+      "lonLat": [
+        116.414632,
+        39.845203
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062331",
+      "stationType": "变电站",
+      "stationName": "五里店",
+      "lonLat": [
+        116.237185,
+        39.855721
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062086",
+      "stationType": "变电站",
+      "stationName": "西罗园",
+      "lonLat": [
+        116.378056,
+        39.850618
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062395",
+      "stationType": "变电站",
+      "stationName": "衙门口",
+      "lonLat": [
+        116.224523,
+        39.884386
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062072",
+      "stationType": "变电站",
+      "stationName": "园博园",
+      "lonLat": [
+        116.17068,
+        39.873317
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082448",
+      "stationType": "变电站",
+      "stationName": "东北旺",
+      "lonLat": [
+        116.282642,
+        40.034339
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082258",
+      "stationType": "变电站",
+      "stationName": "东小营",
+      "lonLat": [
+        116.200675,
+        40.123101
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082456",
+      "stationType": "变电站",
+      "stationName": "会城门",
+      "lonLat": [
+        116.323319,
+        39.903206
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082316",
+      "stationType": "变电站",
+      "stationName": "软件园",
+      "lonLat": [
+        116.292142,
+        40.054276
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082053",
+      "stationType": "变电站",
+      "stationName": "上地",
+      "lonLat": [
+        116.299596,
+        40.038111
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082128",
+      "stationType": "变电站",
+      "stationName": "苏家坨",
+      "lonLat": [
+        116.129264,
+        40.099245
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082176",
+      "stationType": "变电站",
+      "stationName": "西山",
+      "lonLat": [
+        116.22537,
+        39.973257
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101072243",
+      "stationType": "变电站",
+      "stationName": "南山",
+      "lonLat": [
+        116.19802,
+        39.900741
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101072383",
+      "stationType": "变电站",
+      "stationName": "五里坨",
+      "lonLat": [
+        116.113907,
+        39.954334
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101072069",
+      "stationType": "变电站",
+      "stationName": "古城",
+      "lonLat": [
+        116.174671,
+        39.911794
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101072420",
+      "stationType": "变电站",
+      "stationName": "金顶街",
+      "lonLat": [
+        116.167718,
+        39.933518
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101072231",
+      "stationType": "变电站",
+      "stationName": "杏石口",
+      "lonLat": [
+        116.200333,
+        39.93783
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101072277",
+      "stationType": "变电站",
+      "stationName": "鲁谷",
+      "lonLat": [
+        116.214905,
+        39.896524
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122393",
+      "stationType": "变电站",
+      "stationName": "半壁店",
+      "lonLat": [
+        116.625821,
+        39.879843
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122262",
+      "stationType": "变电站",
+      "stationName": "北苑",
+      "lonLat": [
+        116.634487,
+        39.909623
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122195",
+      "stationType": "变电站",
+      "stationName": "次渠",
+      "lonLat": [
+        116.552012,
+        39.80885
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122232",
+      "stationType": "变电站",
+      "stationName": "皇木厂",
+      "lonLat": [
+        116.706393,
+        39.857223
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122188",
+      "stationType": "变电站",
+      "stationName": "霍县",
+      "lonLat": [
+        116.760406,
+        39.765909
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122099",
+      "stationType": "变电站",
+      "stationName": "潞城",
+      "lonLat": [
+        116.808502,
+        39.853619
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122438",
+      "stationType": "变电站",
+      "stationName": "牛堡屯",
+      "lonLat": [
+        116.694467,
+        39.765742
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122322",
+      "stationType": "变电站",
+      "stationName": "武辛庄",
+      "lonLat": [
+        116.860701,
+        39.815144
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122416",
+      "stationType": "变电站",
+      "stationName": "西门",
+      "lonLat": [
+        116.630058,
+        39.891939
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122251",
+      "stationType": "变电站",
+      "stationName": "永乐店",
+      "lonLat": [
+        116.77029,
+        39.605667
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122106",
+      "stationType": "变电站",
+      "stationName": "永顺",
+      "lonLat": [
+        116.666495,
+        39.948348
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122034",
+      "stationType": "变电站",
+      "stationName": "于家务",
+      "lonLat": [
+        116.724997,
+        39.684363
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122444",
+      "stationType": "变电站",
+      "stationName": "玉甫",
+      "lonLat": [
+        116.631788,
+        39.838777
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122293",
+      "stationType": "变电站",
+      "stationName": "张家湾",
+      "lonLat": [
+        116.720118,
+        39.859331
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192121",
+      "stationType": "变电站",
+      "stationName": "亦庄",
+      "lonLat": [
+        116.500665,
+        39.808877
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062306",
+      "stationType": "变电站",
+      "stationName": "长青",
+      "lonLat": [
+        116.101623,
+        39.791147
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052253",
+      "stationType": "变电站",
+      "stationName": "咸宁",
+      "lonLat": [
+        116.574615,
+        39.893597
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052363",
+      "stationType": "变电站",
+      "stationName": "孙河东",
+      "lonLat": [
+        116.531593,
+        40.044406
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012023",
+      "stationType": "变电站",
+      "stationName": "什刹海",
+      "lonLat": [
+        116.371699,
+        39.9466
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122108",
+      "stationType": "变电站",
+      "stationName": "长陵营",
+      "lonLat": [
+        116.791557,
+        39.773811
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122414",
+      "stationType": "变电站",
+      "stationName": "大稿村",
+      "lonLat": [
+        116.634519,
+        39.866252
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122164",
+      "stationType": "变电站",
+      "stationName": "德仁务",
+      "lonLat": [
+        116.774376,
+        39.666115
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122436",
+      "stationType": "变电站",
+      "stationName": "马桥",
+      "lonLat": [
+        116.5673,
+        39.7549
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122432",
+      "stationType": "变电站",
+      "stationName": "麦庄",
+      "lonLat": [
+        116.595834,
+        39.801624
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122268",
+      "stationType": "变电站",
+      "stationName": "觅子店",
+      "lonLat": [
+        116.8889,
+        39.7196
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122287",
+      "stationType": "变电站",
+      "stationName": "宋庄",
+      "lonLat": [
+        116.7393,
+        39.9508
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122326",
+      "stationType": "变电站",
+      "stationName": "张湾",
+      "lonLat": [
+        116.7172,
+        39.8536
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282362",
+      "stationType": "变电站",
+      "stationName": "白河",
+      "lonLat": [
+        116.836812,
+        40.466823
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052041",
+      "stationType": "变电站",
+      "stationName": "永安里",
+      "lonLat": [
+        116.431696,
+        39.904838
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012137",
+      "stationType": "变电站",
+      "stationName": "北新桥",
+      "lonLat": [
+        116.411619,
+        39.933325
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012290",
+      "stationType": "变电站",
+      "stationName": "大栅栏",
+      "lonLat": [
+        116.389843,
+        39.888883
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012242",
+      "stationType": "变电站",
+      "stationName": "万明路",
+      "lonLat": [
+        116.384055,
+        39.886055
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012426",
+      "stationType": "变电站",
+      "stationName": "雍和宫",
+      "lonLat": [
+        116.417519,
+        39.947559
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062203",
+      "stationType": "变电站",
+      "stationName": "七里庄",
+      "lonLat": [
+        116.274335,
+        39.863349
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082255",
+      "stationType": "变电站",
+      "stationName": "安宁庄",
+      "lonLat": [
+        116.317706,
+        40.05153
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082215",
+      "stationType": "变电站",
+      "stationName": "白家疃",
+      "lonLat": [
+        116.170103,
+        40.048544
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192430",
+      "stationType": "变电站",
+      "stationName": "华康",
+      "lonLat": [
+        116.50124,
+        39.785708
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192324",
+      "stationType": "变电站",
+      "stationName": "庆羊",
+      "lonLat": [
+        116.532977,
+        39.801875
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052208",
+      "stationType": "变电站",
+      "stationName": "弘善",
+      "lonLat": [
+        116.442662,
+        39.869729
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052446",
+      "stationType": "变电站",
+      "stationName": "建国门",
+      "lonLat": [
+        116.446396,
+        39.905554
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052366",
+      "stationType": "变电站",
+      "stationName": "平房",
+      "lonLat": [
+        116.558963,
+        39.939672
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012358",
+      "stationType": "变电站",
+      "stationName": "金宝街",
+      "lonLat": [
+        116.426283,
+        39.918445
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122244",
+      "stationType": "变电站",
+      "stationName": "纪庄",
+      "lonLat": [
+        116.628219,
+        39.94129
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122037",
+      "stationType": "变电站",
+      "stationName": "大杜社",
+      "lonLat": [
+        116.635961,
+        39.745555
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082192",
+      "stationType": "变电站",
+      "stationName": "闵庄",
+      "lonLat": [
+        116.247528,
+        39.97411
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082418",
+      "stationType": "变电站",
+      "stationName": "后八家",
+      "lonLat": [
+        116.331359,
+        40.018734
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192211",
+      "stationType": "变电站",
+      "stationName": "景园街",
+      "lonLat": [
+        116.524303,
+        39.779734
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062443",
+      "stationType": "变电站",
+      "stationName": "动漫城",
+      "lonLat": [
+        116.227047,
+        39.873516
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052161",
+      "stationType": "变电站",
+      "stationName": "电子城",
+      "lonLat": [
+        116.50066,
+        39.986229
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052266",
+      "stationType": "变电站",
+      "stationName": "金盏",
+      "lonLat": [
+        116.55927,
+        40.009749
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012249",
+      "stationType": "变电站",
+      "stationName": "报国寺",
+      "lonLat": [
+        116.352183,
+        39.888529
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062130",
+      "stationType": "变电站",
+      "stationName": "郭公庄",
+      "lonLat": [
+        116.314013,
+        39.819004
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101072103",
+      "stationType": "变电站",
+      "stationName": "石莲",
+      "lonLat": [
+        116.226085,
+        39.909297
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062151",
+      "stationType": "变电站",
+      "stationName": "大红门",
+      "lonLat": [
+        116.406723,
+        39.831962
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052307",
+      "stationType": "变电站",
+      "stationName": "金石",
+      "lonLat": [
+        116.489103,
+        39.895285
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082006",
+      "stationType": "变电站",
+      "stationName": "三星庄",
+      "lonLat": [
+        116.182864,
+        40.082964
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062248",
+      "stationType": "变电站",
+      "stationName": "通久",
+      "lonLat": [
+        116.37221,
+        39.825012
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012126",
+      "stationType": "变电站",
+      "stationName": "礼士路",
+      "lonLat": [
+        116.34828,
+        39.913025
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122089",
+      "stationType": "变电站",
+      "stationName": "望君疃",
+      "lonLat": [
+        116.864777,
+        39.8087
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100000004",
+      "stationType": "变电站",
+      "stationName": "兴都",
+      "lonLat": [
+        116.266334,
+        39.764959
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100000001",
+      "stationType": "变电站",
+      "stationName": "朝阳",
+      "lonLat": [
+        116.54471,
+        39.883218
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100000002",
+      "stationType": "变电站",
+      "stationName": "城北",
+      "lonLat": [
+        116.44103,
+        40.045838
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100000003",
+      "stationType": "变电站",
+      "stationName": "海淀",
+      "lonLat": [
+        116.23052,
+        39.94045
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001010",
+      "stationType": "变电站",
+      "stationName": "知春里",
+      "lonLat": [
+        116.332776,
+        39.975924
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001001",
+      "stationType": "变电站",
+      "stationName": "草厂",
+      "lonLat": [
+        116.749834,
+        39.741529
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001002",
+      "stationType": "变电站",
+      "stationName": "望京",
+      "lonLat": [
+        116.447618,
+        39.997941
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001003",
+      "stationType": "变电站",
+      "stationName": "堰上",
+      "lonLat": [
+        116.585142,
+        39.77709
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001004",
+      "stationType": "变电站",
+      "stationName": "韩村河",
+      "lonLat": [
+        115.940578,
+        39.604225
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001005",
+      "stationType": "变电站",
+      "stationName": "左安门",
+      "lonLat": [
+        116.433929,
+        39.86644
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001006",
+      "stationType": "变电站",
+      "stationName": "王四营",
+      "lonLat": [
+        116.517537,
+        39.894079
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001007",
+      "stationType": "变电站",
+      "stationName": "台湖",
+      "lonLat": [
+        116.629525,
+        39.840724
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001008",
+      "stationType": "变电站",
+      "stationName": "南苑",
+      "lonLat": [
+        116.349095,
+        39.815278
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001009",
+      "stationType": "变电站",
+      "stationName": "长椿街",
+      "lonLat": [
+        116.357835,
+        39.899824
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001011",
+      "stationType": "变电站",
+      "stationName": "吕村",
+      "lonLat": [
+        116.162058,
+        39.826113
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001012",
+      "stationType": "变电站",
+      "stationName": "老君堂",
+      "lonLat": [
+        116.515206,
+        39.839197
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001013",
+      "stationType": "变电站",
+      "stationName": "翠林",
+      "lonLat": [
+        116.367315,
+        39.860277
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001014",
+      "stationType": "变电站",
+      "stationName": "地安门",
+      "lonLat": [
+        116.389998,
+        39.949131
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001015",
+      "stationType": "变电站",
+      "stationName": "玉泉营",
+      "lonLat": [
+        116.349557,
+        39.847088
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001016",
+      "stationType": "变电站",
+      "stationName": "军都",
+      "lonLat": [
+        116.308263,
+        40.222547
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001017",
+      "stationType": "变电站",
+      "stationName": "黄寺",
+      "lonLat": [
+        116.396886,
+        39.976223
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001018",
+      "stationType": "变电站",
+      "stationName": "张仪",
+      "lonLat": [
+        116.2243,
+        39.8779
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001019",
+      "stationType": "变电站",
+      "stationName": "芦城",
+      "lonLat": [
+        116.256777,
+        39.767075
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001020",
+      "stationType": "变电站",
+      "stationName": "阎村北",
+      "lonLat": [
+        116.048996,
+        39.722339
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001021",
+      "stationType": "变电站",
+      "stationName": "西大望",
+      "lonLat": [
+        116.475205,
+        39.906123
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001022",
+      "stationType": "变电站",
+      "stationName": "富力城",
+      "lonLat": [
+        116.449736,
+        39.89389
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001023",
+      "stationType": "变电站",
+      "stationName": "草桥",
+      "lonLat": [
+        116.340512,
+        39.863108
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001024",
+      "stationType": "变电站",
+      "stationName": "荣华",
+      "lonLat": [
+        116.528066,
+        39.764555
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001025",
+      "stationType": "变电站",
+      "stationName": "太阳宫",
+      "lonLat": [
+        116.431593,
+        39.96952
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001026",
+      "stationType": "变电站",
+      "stationName": "奥运村",
+      "lonLat": [
+        116.368862,
+        40.026356
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001027",
+      "stationType": "变电站",
+      "stationName": "清河",
+      "lonLat": [
+        116.336117,
+        40.047781
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001028",
+      "stationType": "变电站",
+      "stationName": "东北郊",
+      "lonLat": [
+        116.495363,
+        39.981173
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001029",
+      "stationType": "变电站",
+      "stationName": "李遂",
+      "lonLat": [
+        116.787726,
+        40.097981
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001030",
+      "stationType": "变电站",
+      "stationName": "王府井",
+      "lonLat": [
+        116.407386,
+        39.908954
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001031",
+      "stationType": "变电站",
+      "stationName": "下庄",
+      "lonLat": [
+        116.371598,
+        40.27822
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001032",
+      "stationType": "变电站",
+      "stationName": "上庄",
+      "lonLat": [
+        116.282718,
+        40.072907
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001033",
+      "stationType": "变电站",
+      "stationName": "怀柔",
+      "lonLat": [
+        116.657156,
+        40.304256
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001034",
+      "stationType": "变电站",
+      "stationName": "通州",
+      "lonLat": [
+        116.698625,
+        39.890144
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001035",
+      "stationType": "变电站",
+      "stationName": "仁和",
+      "lonLat": [
+        116.684007,
+        40.076194
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001036",
+      "stationType": "变电站",
+      "stationName": "平谷",
+      "lonLat": [
+        117.057044,
+        40.141756
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001037",
+      "stationType": "变电站",
+      "stationName": "高丽营",
+      "lonLat": [
+        116.533437,
+        40.196199
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001038",
+      "stationType": "变电站",
+      "stationName": "定福庄",
+      "lonLat": [
+        116.594435,
+        39.937079
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001039",
+      "stationType": "变电站",
+      "stationName": "红军营",
+      "lonLat": [
+        116.434628,
+        40.04156
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001040",
+      "stationType": "变电站",
+      "stationName": "大兴",
+      "lonLat": [
+        116.374835,
+        39.668252
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001041",
+      "stationType": "变电站",
+      "stationName": "榆管营",
+      "lonLat": [
+        116.111224,
+        39.704754
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001042",
+      "stationType": "变电站",
+      "stationName": "朝阳门",
+      "lonLat": [
+        116.43093,
+        39.926706
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001043",
+      "stationType": "变电站",
+      "stationName": "莲花池",
+      "lonLat": [
+        116.297601,
+        39.89021
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001044",
+      "stationType": "变电站",
+      "stationName": "西直门",
+      "lonLat": [
+        116.355569,
+        39.945574
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001045",
+      "stationType": "变电站",
+      "stationName": "八达岭",
+      "lonLat": [
+        116.019928,
+        40.420279
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001046",
+      "stationType": "变电站",
+      "stationName": "回龙观",
+      "lonLat": [
+        116.354738,
+        40.086773
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001047",
+      "stationType": "变电站",
+      "stationName": "西沙屯",
+      "lonLat": [
+        116.259658,
+        40.174932
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001048",
+      "stationType": "变电站",
+      "stationName": "八里庄",
+      "lonLat": [
+        116.283856,
+        39.924262
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001049",
+      "stationType": "变电站",
+      "stationName": "宝山",
+      "lonLat": [
+        116.225114,
+        39.922313
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001050",
+      "stationType": "变电站",
+      "stationName": "昆玉河",
+      "lonLat": [
+        116.282467,
+        39.973635
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001051",
+      "stationType": "变电站",
+      "stationName": "孙河",
+      "lonLat": [
+        116.494576,
+        40.019981
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001052",
+      "stationType": "变电站",
+      "stationName": "北寺",
+      "lonLat": [
+        116.732735,
+        39.981763
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001053",
+      "stationType": "变电站",
+      "stationName": "青云店",
+      "lonLat": [
+        116.494988,
+        39.678623
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001054",
+      "stationType": "变电站",
+      "stationName": "东升",
+      "lonLat": [
+        116.33372,
+        40.004664
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001055",
+      "stationType": "变电站",
+      "stationName": "密云",
+      "lonLat": [
+        116.773619,
+        40.319224
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001056",
+      "stationType": "变电站",
+      "stationName": "陈留庄",
+      "lonLat": [
+        116.314608,
+        39.781605
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001057",
+      "stationType": "变电站",
+      "stationName": "垡头",
+      "lonLat": [
+        116.492579,
+        39.858068
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001058",
+      "stationType": "变电站",
+      "stationName": "康宁",
+      "lonLat": [
+        116.541698,
+        39.782894
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001059",
+      "stationType": "变电站",
+      "stationName": "东坝东",
+      "lonLat": [
+        116.60281,
+        39.987
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001060",
+      "stationType": "变电站",
+      "stationName": "团河",
+      "lonLat": [
+        116.380592,
+        39.74249
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001061",
+      "stationType": "变电站",
+      "stationName": "西北旺",
+      "lonLat": [
+        116.2186,
+        40.054128
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001062",
+      "stationType": "变电站",
+      "stationName": "栗元",
+      "lonLat": [
+        116.097401,
+        39.891825
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001063",
+      "stationType": "变电站",
+      "stationName": "聂各庄",
+      "lonLat": [
+        116.118307,
+        40.092566
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001064",
+      "stationType": "变电站",
+      "stationName": "西马",
+      "lonLat": [
+        116.529568,
+        40.1419
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001065",
+      "stationType": "变电站",
+      "stationName": "桃园",
+      "lonLat": [
+        116.359793,
+        39.939764
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001066",
+      "stationType": "变电站",
+      "stationName": "霍南",
+      "lonLat": [
+        116.394273,
+        40.122211
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001067",
+      "stationType": "变电站",
+      "stationName": "商务园",
+      "lonLat": [
+        116.648571,
+        39.951058
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001068",
+      "stationType": "变电站",
+      "stationName": "未来城",
+      "lonLat": [
+        116.460468,
+        40.132737
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001069",
+      "stationType": "变电站",
+      "stationName": "菜市口",
+      "lonLat": [
+        116.369228,
+        39.88122
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001070",
+      "stationType": "变电站",
+      "stationName": "怀柔北",
+      "lonLat": [
+        116.702212,
+        40.38906
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001071",
+      "stationType": "变电站",
+      "stationName": "永定",
+      "lonLat": [
+        116.17874,
+        39.8911
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001072",
+      "stationType": "变电站",
+      "stationName": "远大",
+      "lonLat": [
+        116.265375,
+        39.958159
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001073",
+      "stationType": "变电站",
+      "stationName": "酒仙桥",
+      "lonLat": [
+        116.509644,
+        39.978657
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001074",
+      "stationType": "变电站",
+      "stationName": "温泉",
+      "lonLat": [
+        116.145893,
+        40.056587
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001075",
+      "stationType": "变电站",
+      "stationName": "团结湖",
+      "lonLat": [
+        116.494324,
+        39.943265
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001076",
+      "stationType": "变电站",
+      "stationName": "龙潭湖",
+      "lonLat": [
+        116.426326,
+        39.878746
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001077",
+      "stationType": "变电站",
+      "stationName": "高碑店",
+      "lonLat": [
+        116.529746,
+        39.883902
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001078",
+      "stationType": "变电站",
+      "stationName": "七家庄",
+      "lonLat": [
+        116.472231,
+        40.10088
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001079",
+      "stationType": "变电站",
+      "stationName": "马坡",
+      "lonLat": [
+        116.617633,
+        40.168804
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100001080",
+      "stationType": "变电站",
+      "stationName": "北宫",
+      "lonLat": [
+        116.145602,
+        39.850272
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142236",
+      "stationType": "变电站",
+      "stationName": "八仙庄",
+      "lonLat": [
+        116.424965,
+        40.12894
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142445",
+      "stationType": "变电站",
+      "stationName": "白坊",
+      "lonLat": [
+        116.421114,
+        40.068566
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142140",
+      "stationType": "变电站",
+      "stationName": "白浮",
+      "lonLat": [
+        116.28135,
+        40.197704
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292165",
+      "stationType": "变电站",
+      "stationName": "白河",
+      "lonLat": [
+        116.149502,
+        40.628825
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112313",
+      "stationType": "变电站",
+      "stationName": "班各庄",
+      "lonLat": [
+        115.889452,
+        39.817019
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142405",
+      "stationType": "变电站",
+      "stationName": "北店",
+      "lonLat": [
+        116.332454,
+        40.071582
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162279",
+      "stationType": "变电站",
+      "stationName": "北房",
+      "lonLat": [
+        116.677164,
+        40.328527
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132101",
+      "stationType": "变电站",
+      "stationName": "北河",
+      "lonLat": [
+        116.698993,
+        40.041848
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142036",
+      "stationType": "变电站",
+      "stationName": "北七家",
+      "lonLat": [
+        116.414949,
+        40.119047
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132173",
+      "stationType": "变电站",
+      "stationName": "北石槽",
+      "lonLat": [
+        116.546177,
+        40.253592
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132007",
+      "stationType": "变电站",
+      "stationName": "北务",
+      "lonLat": [
+        116.796483,
+        40.062997
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132263",
+      "stationType": "变电站",
+      "stationName": "北小营",
+      "lonLat": [
+        116.724367,
+        40.214732
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282409",
+      "stationType": "变电站",
+      "stationName": "北庄",
+      "lonLat": [
+        117.166195,
+        40.508847
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172206",
+      "stationType": "变电站",
+      "stationName": "滨河",
+      "lonLat": [
+        117.081089,
+        40.133343
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282301",
+      "stationType": "变电站",
+      "stationName": "滨阳",
+      "lonLat": [
+        116.853822,
+        40.369623
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162180",
+      "stationType": "变电站",
+      "stationName": "渤海",
+      "lonLat": [
+        116.513238,
+        40.413519
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122401",
+      "stationType": "变电站",
+      "stationName": "乔庄",
+      "lonLat": [
+        116.685146,
+        39.88266
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122129",
+      "stationType": "变电站",
+      "stationName": "市府西",
+      "lonLat": [
+        116.70628,
+        39.906677
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062417",
+      "stationType": "变电站",
+      "stationName": "长辛店站",
+      "lonLat": [
+        116.2127,
+        39.8428
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122193",
+      "stationType": "变电站",
+      "stationName": "甘棠",
+      "lonLat": [
+        116.809359,
+        39.853599
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052209",
+      "stationType": "变电站",
+      "stationName": "大羊坊",
+      "lonLat": [
+        116.485072,
+        39.841905
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052102",
+      "stationType": "变电站",
+      "stationName": "万通",
+      "lonLat": [
+        116.57403,
+        39.852061
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010036",
+      "stationType": "变电站",
+      "stationName": "通州",
+      "lonLat": [
+        116.7475,
+        39.7872
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010013",
+      "stationType": "变电站",
+      "stationName": "房山",
+      "lonLat": [
+        116.0487,
+        39.6988
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010001",
+      "stationType": "变电站",
+      "stationName": "安定",
+      "lonLat": [
+        116.4959,
+        39.6576
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010022",
+      "stationType": "变电站",
+      "stationName": "昌平",
+      "lonLat": [
+        116.328,
+        40.225
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010021",
+      "stationType": "变电站",
+      "stationName": "顺义",
+      "lonLat": [
+        116.7339,
+        40.2367
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010019",
+      "stationType": "变电站",
+      "stationName": "门头沟",
+      "lonLat": [
+        116.0977,
+        39.8922
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002460",
+      "stationType": "变电站",
+      "stationName": "罗奇营",
+      "lonLat": [
+        116.283388,
+        39.694505
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002459",
+      "stationType": "变电站",
+      "stationName": "信息港",
+      "lonLat": [
+        116.223883,
+        40.143364
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002458",
+      "stationType": "变电站",
+      "stationName": "东府",
+      "lonLat": [
+        116.780969,
+        40.203604
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002457",
+      "stationType": "变电站",
+      "stationName": "鱼子山",
+      "lonLat": [
+        117.149522,
+        40.179678
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002461",
+      "stationType": "变电站",
+      "stationName": "宝善庄",
+      "lonLat": [
+        116.462969,
+        39.794052
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002462",
+      "stationType": "变电站",
+      "stationName": "吉利",
+      "lonLat": [
+        116.155652,
+        40.171424
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052465",
+      "stationType": "变电站",
+      "stationName": "东晓景",
+      "lonLat": [
+        116.5659,
+        39.956969
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062464",
+      "stationType": "变电站",
+      "stationName": "北湖",
+      "lonLat": [
+        116.112082,
+        39.839691
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062467",
+      "stationType": "变电站",
+      "stationName": "槐树岭",
+      "lonLat": [
+        116.153034,
+        39.860353
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092468",
+      "stationType": "变电站",
+      "stationName": "王平",
+      "lonLat": [
+        115.972102,
+        39.960949
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122469",
+      "stationType": "变电站",
+      "stationName": "市府东",
+      "lonLat": [
+        116.732145,
+        39.903387
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132466",
+      "stationType": "变电站",
+      "stationName": "板桥",
+      "lonLat": [
+        116.525824,
+        40.225613
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142471",
+      "stationType": "变电站",
+      "stationName": "中滩",
+      "lonLat": [
+        116.382605,
+        40.053724
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152470",
+      "stationType": "变电站",
+      "stationName": "月季园",
+      "lonLat": [
+        116.389664,
+        39.682078
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152463",
+      "stationType": "变电站",
+      "stationName": "太福庄",
+      "lonLat": [
+        116.265086,
+        39.738321
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002472",
+      "stationType": "变电站",
+      "stationName": "李营牵引",
+      "lonLat": [
+        116.3256,
+        39.7855
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002473",
+      "stationType": "变电站",
+      "stationName": "魏善庄牵引",
+      "lonLat": [
+        116.389633,
+        39.669612
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002474",
+      "stationType": "变电站",
+      "stationName": "亦庄牵引",
+      "lonLat": [
+        116.572179,
+        39.827251
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002475",
+      "stationType": "变电站",
+      "stationName": "大刘庄牵引",
+      "lonLat": [
+        116.19769,
+        39.861962
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129901000040",
+      "stationType": "变电站",
+      "stationName": "月城",
+      "lonLat": [
+        101.77,
+        27.53
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002476",
+      "stationType": "变电站",
+      "stationName": "广阳",
+      "lonLat": [
+        116.186711,
+        39.740941
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002480",
+      "stationType": "变电站",
+      "stationName": "礼贤北",
+      "lonLat": [
+        116.458,
+        39.573
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002481",
+      "stationType": "变电站",
+      "stationName": "榆垡北",
+      "lonLat": [
+        116.317519,
+        39.526401
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062477",
+      "stationType": "变电站",
+      "stationName": "西铁营",
+      "lonLat": [
+        116.343667,
+        39.856244
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142478",
+      "stationType": "变电站",
+      "stationName": "流村",
+      "lonLat": [
+        116.072142,
+        40.178362
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152479",
+      "stationType": "变电站",
+      "stationName": "清源",
+      "lonLat": [
+        116.345214,
+        39.740893
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152482",
+      "stationType": "变电站",
+      "stationName": "广厦",
+      "lonLat": [
+        116.457876,
+        39.573784
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002483",
+      "stationType": "变电站",
+      "stationName": "梁各庄",
+      "lonLat": [
+        116.766093,
+        39.833549
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052484",
+      "stationType": "变电站",
+      "stationName": "东苇",
+      "lonLat": [
+        116.507846,
+        40.005083
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062485",
+      "stationType": "变电站",
+      "stationName": "临泓",
+      "lonLat": [
+        116.400197,
+        39.845257
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002486",
+      "stationType": "变电站",
+      "stationName": "于辛庄",
+      "lonLat": [
+        116.298713,
+        40.139587
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082487",
+      "stationType": "变电站",
+      "stationName": "肖家河",
+      "lonLat": [
+        116.276318,
+        40.019052
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121310000179",
+      "stationType": "变电站",
+      "stationName": "大厂祁各庄",
+      "lonLat": [
+        116.8974,
+        39.8675
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052488",
+      "stationType": "变电站",
+      "stationName": "康营",
+      "lonLat": [
+        116.527437,
+        40.034633
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062490",
+      "stationType": "变电站",
+      "stationName": "北铁营",
+      "lonLat": [
+        116.438609,
+        39.856872
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172489",
+      "stationType": "变电站",
+      "stationName": "陆港",
+      "lonLat": [
+        117.019506,
+        40.092177
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142491",
+      "stationType": "变电站",
+      "stationName": "十三陵",
+      "lonLat": [
+        116.22147,
+        40.271688
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122493",
+      "stationType": "变电站",
+      "stationName": "北神树",
+      "lonLat": [
+        116.57931,
+        39.798474
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152495",
+      "stationType": "变电站",
+      "stationName": "五福堂",
+      "lonLat": [
+        116.434314,
+        39.79101
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152496",
+      "stationType": "变电站",
+      "stationName": "新机场东",
+      "lonLat": [
+        116.420025,
+        39.523978
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152497",
+      "stationType": "变电站",
+      "stationName": "新机场西",
+      "lonLat": [
+        116.402218,
+        39.522487
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002498",
+      "stationType": "变电站",
+      "stationName": "新航城",
+      "lonLat": [
+        116.371724,
+        39.612515
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002499",
+      "stationType": "变电站",
+      "stationName": "路南",
+      "lonLat": [
+        116.494049,
+        39.717178
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002500",
+      "stationType": "变电站",
+      "stationName": "邓庄",
+      "lonLat": [
+        116.173862,
+        40.238024
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002501",
+      "stationType": "变电站",
+      "stationName": "冬奥",
+      "lonLat": [
+        116.174638,
+        39.921502
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002502",
+      "stationType": "变电站",
+      "stationName": "西白庙",
+      "lonLat": [
+        115.911567,
+        40.396274
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002503",
+      "stationType": "变电站",
+      "stationName": "运河",
+      "lonLat": [
+        116.651858,
+        39.924054
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002504",
+      "stationType": "变电站",
+      "stationName": "石龙",
+      "lonLat": [
+        116.1193,
+        39.9109
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292505",
+      "stationType": "变电站",
+      "stationName": "世园",
+      "lonLat": [
+        115.926832,
+        40.431674
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142506",
+      "stationType": "变电站",
+      "stationName": "大东流",
+      "lonLat": [
+        116.452179,
+        40.178186
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010008",
+      "stationType": "变电站",
+      "stationName": "固安",
+      "lonLat": [
+        116.3722,
+        39.4255
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282351",
+      "stationType": "变电站",
+      "stationName": "不老屯",
+      "lonLat": [
+        116.981617,
+        40.567965
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152012",
+      "stationType": "变电站",
+      "stationName": "采育",
+      "lonLat": [
+        116.634866,
+        39.65573
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132400",
+      "stationType": "变电站",
+      "stationName": "仓上",
+      "lonLat": [
+        116.657224,
+        40.116434
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132029",
+      "stationType": "变电站",
+      "stationName": "潮白河",
+      "lonLat": [
+        116.718368,
+        40.119859
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162134",
+      "stationType": "变电站",
+      "stationName": "城东",
+      "lonLat": [
+        116.668249,
+        40.281421
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092001",
+      "stationType": "变电站",
+      "stationName": "城子",
+      "lonLat": [
+        116.092334,
+        39.95671
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132336",
+      "stationType": "变电站",
+      "stationName": "出口加工区",
+      "lonLat": [
+        116.555492,
+        40.089369
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112062",
+      "stationType": "变电站",
+      "stationName": "磁家务",
+      "lonLat": [
+        115.965948,
+        39.803427
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112077",
+      "stationType": "变电站",
+      "stationName": "大安山",
+      "lonLat": [
+        115.777594,
+        39.886282
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142260",
+      "stationType": "变电站",
+      "stationName": "大东流",
+      "lonLat": [
+        116.3068,
+        40.1712
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172145",
+      "stationType": "变电站",
+      "stationName": "大华山",
+      "lonLat": [
+        117.060775,
+        40.277211
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132354",
+      "stationType": "变电站",
+      "stationName": "大龙",
+      "lonLat": [
+        116.652851,
+        40.174051
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112187",
+      "stationType": "变电站",
+      "stationName": "大宁",
+      "lonLat": [
+        116.22454,
+        39.782984
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282146",
+      "stationType": "变电站",
+      "stationName": "大石岭",
+      "lonLat": [
+        116.923883,
+        40.401323
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152010",
+      "stationType": "变电站",
+      "stationName": "大塑",
+      "lonLat": [
+        116.317797,
+        39.742675
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292386",
+      "stationType": "变电站",
+      "stationName": "大庄科",
+      "lonLat": [
+        116.233551,
+        40.430296
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292339",
+      "stationType": "变电站",
+      "stationName": "东曹营",
+      "lonLat": [
+        115.961336,
+        40.37713
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132451",
+      "stationType": "变电站",
+      "stationName": "东大孙",
+      "lonLat": [
+        116.914874,
+        40.087866
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172175",
+      "stationType": "变电站",
+      "stationName": "东高村",
+      "lonLat": [
+        117.103629,
+        40.087452
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142428",
+      "stationType": "变电站",
+      "stationName": "东沙各庄",
+      "lonLat": [
+        116.403017,
+        40.131343
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282425",
+      "stationType": "变电站",
+      "stationName": "东邵渠",
+      "lonLat": [
+        116.965881,
+        40.303496
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142315",
+      "stationType": "变电站",
+      "stationName": "东小口",
+      "lonLat": [
+        116.403778,
+        40.078757
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292200",
+      "stationType": "变电站",
+      "stationName": "东杏园",
+      "lonLat": [
+        115.974681,
+        40.424312
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132055",
+      "stationType": "变电站",
+      "stationName": "东营",
+      "lonLat": [
+        116.761362,
+        40.093049
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162016",
+      "stationType": "变电站",
+      "stationName": "东庄",
+      "lonLat": [
+        116.701429,
+        40.39626
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132167",
+      "stationType": "变电站",
+      "stationName": "董各庄",
+      "lonLat": [
+        116.527061,
+        40.118626
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112048",
+      "stationType": "变电站",
+      "stationName": "豆店",
+      "lonLat": [
+        116.068296,
+        39.643175
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162441",
+      "stationType": "变电站",
+      "stationName": "范各庄",
+      "lonLat": [
+        116.66305,
+        40.360803
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052084",
+      "stationType": "变电站",
+      "stationName": "方家村",
+      "lonLat": [
+        116.522467,
+        39.897532
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092085",
+      "stationType": "变电站",
+      "stationName": "冯村",
+      "lonLat": [
+        116.109224,
+        39.918934
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282317",
+      "stationType": "变电站",
+      "stationName": "冯家峪",
+      "lonLat": [
+        116.868831,
+        40.618894
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112250",
+      "stationType": "变电站",
+      "stationName": "凤凰亭",
+      "lonLat": [
+        115.944425,
+        39.760065
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112088",
+      "stationType": "变电站",
+      "stationName": "福庄",
+      "lonLat": [
+        115.988287,
+        39.688114
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092196",
+      "stationType": "变电站",
+      "stationName": "付家台",
+      "lonLat": [
+        115.866658,
+        40.034118
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092427",
+      "stationType": "变电站",
+      "stationName": "高堡",
+      "lonLat": [
+        115.698742,
+        39.977679
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112397",
+      "stationType": "变电站",
+      "stationName": "高教园",
+      "lonLat": [
+        116.147714,
+        39.712606
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282335",
+      "stationType": "变电站",
+      "stationName": "高岭",
+      "lonLat": [
+        117.099222,
+        40.604227
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142327",
+      "stationType": "变电站",
+      "stationName": "高崖口",
+      "lonLat": [
+        116.039964,
+        40.161445
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172201",
+      "stationType": "变电站",
+      "stationName": "泃河",
+      "lonLat": [
+        117.130235,
+        40.156365
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112177",
+      "stationType": "变电站",
+      "stationName": "官道",
+      "lonLat": [
+        116.138573,
+        39.629328
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142198",
+      "stationType": "变电站",
+      "stationName": "国管学院",
+      "lonLat": [
+        116.283051,
+        40.246448
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142184",
+      "stationType": "变电站",
+      "stationName": "海青落",
+      "lonLat": [
+        116.440135,
+        40.102897
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132419",
+      "stationType": "变电站",
+      "stationName": "行宫",
+      "lonLat": [
+        116.904449,
+        40.15126
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132033",
+      "stationType": "变电站",
+      "stationName": "郝家疃",
+      "lonLat": [
+        116.696118,
+        40.16643
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112104",
+      "stationType": "变电站",
+      "stationName": "昊天",
+      "lonLat": [
+        116.144891,
+        39.735802
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142359",
+      "stationType": "变电站",
+      "stationName": "何营",
+      "lonLat": [
+        116.275763,
+        40.227663
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132429",
+      "stationType": "变电站",
+      "stationName": "河津营",
+      "lonLat": [
+        116.51252,
+        40.161219
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112060",
+      "stationType": "变电站",
+      "stationName": "黑古台",
+      "lonLat": [
+        116.108684,
+        39.704992
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162323",
+      "stationType": "变电站",
+      "stationName": "红螺寺",
+      "lonLat": [
+        116.621611,
+        40.357124
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152433",
+      "stationType": "变电站",
+      "stationName": "红星",
+      "lonLat": [
+        116.450485,
+        39.811248
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132042",
+      "stationType": "变电站",
+      "stationName": "后沙峪",
+      "lonLat": [
+        116.536902,
+        40.097026
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142376",
+      "stationType": "变电站",
+      "stationName": "虎峪",
+      "lonLat": [
+        116.135484,
+        40.251985
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162310",
+      "stationType": "变电站",
+      "stationName": "黄坎",
+      "lonLat": [
+        116.460359,
+        40.36259
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112308",
+      "stationType": "变电站",
+      "stationName": "黄辛庄",
+      "lonLat": [
+        116.145376,
+        39.757668
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092439",
+      "stationType": "变电站",
+      "stationName": "灰峪",
+      "lonLat": [
+        116.087975,
+        40.001182
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162348",
+      "stationType": "变电站",
+      "stationName": "会都",
+      "lonLat": [
+        116.671217,
+        40.41676
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152225",
+      "stationType": "变电站",
+      "stationName": "会战村",
+      "lonLat": [
+        116.486541,
+        39.637837
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112330",
+      "stationType": "变电站",
+      "stationName": "吉羊",
+      "lonLat": [
+        115.990216,
+        39.603918
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112356",
+      "stationType": "变电站",
+      "stationName": "江村",
+      "lonLat": [
+        116.141219,
+        39.690826
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112355",
+      "stationType": "变电站",
+      "stationName": "焦庄",
+      "lonLat": [
+        116.042225,
+        39.715661
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172349",
+      "stationType": "变电站",
+      "stationName": "金海湖",
+      "lonLat": [
+        117.257057,
+        40.181194
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152107",
+      "stationType": "变电站",
+      "stationName": "金星",
+      "lonLat": [
+        116.360202,
+        39.755218
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152269",
+      "stationType": "变电站",
+      "stationName": "京福",
+      "lonLat": [
+        116.460173,
+        39.696781
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010011",
+      "stationType": "变电站",
+      "stationName": "张南",
+      "lonLat": [
+        115.3462,
+        40.2226
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010005",
+      "stationType": "变电站",
+      "stationName": "张家口",
+      "lonLat": [
+        114.6883,
+        41.4399
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010034",
+      "stationType": "变电站",
+      "stationName": "浑源",
+      "lonLat": [
+        113.6635,
+        39.7581
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010031",
+      "stationType": "变电站",
+      "stationName": "万全",
+      "lonLat": [
+        114.7875,
+        40.7475
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129901010005",
+      "stationType": "变电站",
+      "stationName": "廊坊",
+      "lonLat": [
+        117.2081,
+        39.8379
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129901010012",
+      "stationType": "变电站",
+      "stationName": "胜利",
+      "lonLat": [
+        116.2969,
+        44.0847
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129901010008",
+      "stationType": "变电站",
+      "stationName": "锡盟",
+      "lonLat": [
+        116.7255,
+        42.1423
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129901010016",
+      "stationType": "变电站",
+      "stationName": "海河",
+      "lonLat": [
+        117.1528,
+        38.6186
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010010",
+      "stationType": "变电站",
+      "stationName": "太平",
+      "lonLat": [
+        117.8501,
+        40.0019
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121310000026",
+      "stationType": "变电站",
+      "stationName": "皇一村",
+      "lonLat": [
+        117.0957,
+        39.8714
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121200000090",
+      "stationType": "变电站",
+      "stationName": "南蔡",
+      "lonLat": [
+        117.0424,
+        39.5279
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121310000015",
+      "stationType": "变电站",
+      "stationName": "大屯站",
+      "lonLat": [
+        116.706394,
+        39.572076
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121310000020",
+      "stationType": "变电站",
+      "stationName": "龙河站",
+      "lonLat": [
+        116.681444,
+        39.495817
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121300000004",
+      "stationType": "变电站",
+      "stationName": "慈云",
+      "lonLat": [
+        115.7299,
+        39.2903
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142507",
+      "stationType": "变电站",
+      "stationName": "水泥厂",
+      "lonLat": [
+        116.2312,
+        40.2375
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002514",
+      "stationType": "变电站",
+      "stationName": "北辰会议中心",
+      "lonLat": [
+        116.4012,
+        39.9696
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002515",
+      "stationType": "变电站",
+      "stationName": "北航",
+      "lonLat": [
+        116.3538,
+        39.9876
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002516",
+      "stationType": "变电站",
+      "stationName": "北重",
+      "lonLat": [
+        116.409,
+        40.0001
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002517",
+      "stationType": "变电站",
+      "stationName": "电科院",
+      "lonLat": [
+        116.34798,
+        40.040708
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002518",
+      "stationType": "变电站",
+      "stationName": "东风",
+      "lonLat": [
+        115.980058,
+        39.7525
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002519",
+      "stationType": "变电站",
+      "stationName": "环铁",
+      "lonLat": [
+        116.5283,
+        39.9975
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002520",
+      "stationType": "变电站",
+      "stationName": "毛纺厂",
+      "lonLat": [
+        116.4144,
+        40.0495
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002521",
+      "stationType": "变电站",
+      "stationName": "清华大学",
+      "lonLat": [
+        116.3333,
+        40.0096
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002522",
+      "stationType": "变电站",
+      "stationName": "双桥牵引",
+      "lonLat": [
+        116.5833,
+        39.9159
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002523",
+      "stationType": "变电站",
+      "stationName": "松下彩管",
+      "lonLat": [
+        116.5028,
+        40.0394
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002524",
+      "stationType": "变电站",
+      "stationName": "特钢",
+      "lonLat": [
+        116.1925,
+        39.9286
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002525",
+      "stationType": "变电站",
+      "stationName": "燕山",
+      "lonLat": [
+        115.961113,
+        39.755903
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082527",
+      "stationType": "变电站",
+      "stationName": "大牛坊",
+      "lonLat": [
+        116.2327,
+        40.0944
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112510",
+      "stationType": "变电站",
+      "stationName": "向阳",
+      "lonLat": [
+        116.0871,
+        39.5815
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132511",
+      "stationType": "变电站",
+      "stationName": "机场东",
+      "lonLat": [
+        116.6023,
+        40.0559
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132512",
+      "stationType": "变电站",
+      "stationName": "首钢冷轧",
+      "lonLat": [
+        116.6892,
+        40.038
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142508",
+      "stationType": "变电站",
+      "stationName": "下庄牵引",
+      "lonLat": [
+        116.3684,
+        40.2913
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152528",
+      "stationType": "变电站",
+      "stationName": "北磁牵引",
+      "lonLat": [
+        116.412,
+        39.7344
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192526",
+      "stationType": "变电站",
+      "stationName": "文德",
+      "lonLat": [
+        116.6091,
+        39.8185
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292513",
+      "stationType": "变电站",
+      "stationName": "延庆.牵引",
+      "lonLat": [
+        116.0863,
+        40.3411
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012509",
+      "stationType": "变电站",
+      "stationName": "广渠门",
+      "lonLat": [
+        116.4492,
+        39.8959
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062530",
+      "stationType": "变电站",
+      "stationName": "万泉",
+      "lonLat": [
+        116.32534,
+        39.86482
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122529",
+      "stationType": "变电站",
+      "stationName": "驸马庄",
+      "lonLat": [
+        116.595444,
+        39.7672
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162531",
+      "stationType": "变电站",
+      "stationName": "科学城西",
+      "lonLat": [
+        116.683402,
+        40.379167
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129901000041",
+      "stationType": "变电站",
+      "stationName": "安福站",
+      "lonLat": [
+        111.576505,
+        30.58856
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101090001",
+      "stationType": "变电站",
+      "stationName": "大台矿站",
+      "lonLat": [
+        115.9949,
+        39.9633
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101090002",
+      "stationType": "变电站",
+      "stationName": "人轴站",
+      "lonLat": [
+        115.8349,
+        40.0133
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101090003",
+      "stationType": "变电站",
+      "stationName": "王平村矿站",
+      "lonLat": [
+        115.970118,
+        39.963209
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052534",
+      "stationType": "变电站",
+      "stationName": "郎家园",
+      "lonLat": [
+        116.46201,
+        39.911557
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122535",
+      "stationType": "变电站",
+      "stationName": "岳庄",
+      "lonLat": [
+        116.651754,
+        39.915826
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282532",
+      "stationType": "变电站",
+      "stationName": "水泉",
+      "lonLat": [
+        116.761755,
+        40.354782
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292533",
+      "stationType": "变电站",
+      "stationName": "海坨",
+      "lonLat": [
+        115.752931,
+        40.509084
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101160001",
+      "stationType": "变电站",
+      "stationName": "水九取水厂",
+      "lonLat": [
+        116.1904,
+        40.231
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100000005",
+      "stationType": "变电站",
+      "stationName": "原子能",
+      "lonLat": [
+        116.5704,
+        39.7917
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100000006",
+      "stationType": "变电站",
+      "stationName": "佃庄",
+      "lonLat": [
+        116.1904,
+        40.2307
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100000007",
+      "stationType": "变电站",
+      "stationName": "安定牵引站",
+      "lonLat": [
+        116.4144,
+        39.996
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100000008",
+      "stationType": "变电站",
+      "stationName": "西梨园",
+      "lonLat": [
+        116.3395,
+        39.7381
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100000009",
+      "stationType": "变电站",
+      "stationName": "木林牵引",
+      "lonLat": [
+        116.6695,
+        40.1351
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100000010",
+      "stationType": "变电站",
+      "stationName": "现代三厂",
+      "lonLat": [
+        116.6695,
+        40.1351
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100000011",
+      "stationType": "变电站",
+      "stationName": "首都机场",
+      "lonLat": [
+        116.6684,
+        40.136
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100000012",
+      "stationType": "变电站",
+      "stationName": "丰台牵引站",
+      "lonLat": [
+        116.6684,
+        40.136
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101080001",
+      "stationType": "变电站",
+      "stationName": "高能所",
+      "lonLat": [
+        116.2577,
+        39.917
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110001",
+      "stationType": "变电站",
+      "stationName": "大安山矿",
+      "lonLat": [
+        115.7793,
+        39.9019
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110002",
+      "stationType": "变电站",
+      "stationName": "长沟峪煤矿",
+      "lonLat": [
+        115.920266,
+        39.707252
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110003",
+      "stationType": "变电站",
+      "stationName": "四零一",
+      "lonLat": [
+        116.0659,
+        39.74
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110004",
+      "stationType": "变电站",
+      "stationName": "西营房",
+      "lonLat": [
+        116.3752,
+        39.8037
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110005",
+      "stationType": "变电站",
+      "stationName": "交道",
+      "lonLat": [
+        116.2128,
+        39.6532
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152202",
+      "stationType": "变电站",
+      "stationName": "九龙",
+      "lonLat": [
+        116.360406,
+        39.770097
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092223",
+      "stationType": "变电站",
+      "stationName": "韭园",
+      "lonLat": [
+        116.014916,
+        39.97313
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152210",
+      "stationType": "变电站",
+      "stationName": "旧宫",
+      "lonLat": [
+        116.421301,
+        39.775368
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292095",
+      "stationType": "变电站",
+      "stationName": "旧县",
+      "lonLat": [
+        116.087034,
+        40.553915
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282061",
+      "stationType": "变电站",
+      "stationName": "巨各庄",
+      "lonLat": [
+        116.986846,
+        40.354795
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132302",
+      "stationType": "变电站",
+      "stationName": "聚源",
+      "lonLat": [
+        116.623209,
+        40.177861
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132035",
+      "stationType": "变电站",
+      "stationName": "军营",
+      "lonLat": [
+        116.638329,
+        40.114051
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292080",
+      "stationType": "变电站",
+      "stationName": "康庄",
+      "lonLat": [
+        115.912576,
+        40.365004
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152367",
+      "stationType": "变电站",
+      "stationName": "礼贤",
+      "lonLat": [
+        116.4586,
+        39.5609
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132011",
+      "stationType": "变电站",
+      "stationName": "李桥",
+      "lonLat": [
+        116.658888,
+        40.037831
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152051",
+      "stationType": "变电站",
+      "stationName": "李营",
+      "lonLat": [
+        116.31854,
+        39.788873
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052003",
+      "stationType": "变电站",
+      "stationName": "立水桥",
+      "lonLat": [
+        116.403459,
+        40.032888
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112408",
+      "stationType": "变电站",
+      "stationName": "良乡",
+      "lonLat": [
+        116.112282,
+        39.718808
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132410",
+      "stationType": "变电站",
+      "stationName": "梁庄",
+      "lonLat": [
+        116.855733,
+        40.173265
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132385",
+      "stationType": "变电站",
+      "stationName": "林河",
+      "lonLat": [
+        116.667227,
+        40.089047
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092186",
+      "stationType": "变电站",
+      "stationName": "灵山",
+      "lonLat": [
+        115.544242,
+        39.923029
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162194",
+      "stationType": "变电站",
+      "stationName": "琉璃庙",
+      "lonLat": [
+        116.64975,
+        40.623266
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142070",
+      "stationType": "变电站",
+      "stationName": "龙山",
+      "lonLat": [
+        116.258779,
+        40.219787
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132009",
+      "stationType": "变电站",
+      "stationName": "龙湾屯",
+      "lonLat": [
+        116.865098,
+        40.215434
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142073",
+      "stationType": "变电站",
+      "stationName": "龙兴",
+      "lonLat": [
+        116.306637,
+        40.068495
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132318",
+      "stationType": "变电站",
+      "stationName": "楼台",
+      "lonLat": [
+        116.575199,
+        40.038058
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152396",
+      "stationType": "变电站",
+      "stationName": "鹿苑",
+      "lonLat": [
+        116.439701,
+        39.770423
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142014",
+      "stationType": "变电站",
+      "stationName": "马池口",
+      "lonLat": [
+        116.160169,
+        40.198724
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172350",
+      "stationType": "变电站",
+      "stationName": "马坊",
+      "lonLat": [
+        117.01296,
+        40.046486
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142098",
+      "stationType": "变电站",
+      "stationName": "满井",
+      "lonLat": [
+        116.235403,
+        40.153704
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112233",
+      "stationType": "变电站",
+      "stationName": "梅花庄",
+      "lonLat": [
+        116.17517,
+        39.768545
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132178",
+      "stationType": "变电站",
+      "stationName": "米各庄",
+      "lonLat": [
+        116.647108,
+        40.082191
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162172",
+      "stationType": "变电站",
+      "stationName": "庙城",
+      "lonLat": [
+        116.627495,
+        40.289182
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152241",
+      "stationType": "变电站",
+      "stationName": "民和",
+      "lonLat": [
+        116.3178,
+        39.695338
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282143",
+      "stationType": "变电站",
+      "stationName": "明湖",
+      "lonLat": [
+        116.884352,
+        40.478947
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282026",
+      "stationType": "变电站",
+      "stationName": "穆家峪",
+      "lonLat": [
+        116.935041,
+        40.421168
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132379",
+      "stationType": "变电站",
+      "stationName": "南彩",
+      "lonLat": [
+        116.752799,
+        40.138513
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132168",
+      "stationType": "变电站",
+      "stationName": "南法信",
+      "lonLat": [
+        116.590129,
+        40.137088
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162017",
+      "stationType": "变电站",
+      "stationName": "南华",
+      "lonLat": [
+        116.63462,
+        40.306112
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142213",
+      "stationType": "变电站",
+      "stationName": "南口",
+      "lonLat": [
+        116.140307,
+        40.23807
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112280",
+      "stationType": "变电站",
+      "stationName": "南梨园",
+      "lonLat": [
+        116.065144,
+        39.703141
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112067",
+      "stationType": "变电站",
+      "stationName": "南尚乐",
+      "lonLat": [
+        115.815933,
+        39.557575
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142378",
+      "stationType": "变电站",
+      "stationName": "南邵",
+      "lonLat": [
+        116.289911,
+        40.203056
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152345",
+      "stationType": "变电站",
+      "stationName": "念坛",
+      "lonLat": [
+        116.286248,
+        39.679828
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132314",
+      "stationType": "变电站",
+      "stationName": "牛栏山",
+      "lonLat": [
+        116.627019,
+        40.21637
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142076",
+      "stationType": "变电站",
+      "stationName": "牛湾",
+      "lonLat": [
+        116.241364,
+        40.122783
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172111",
+      "stationType": "变电站",
+      "stationName": "盘峰",
+      "lonLat": [
+        117.093521,
+        40.144702
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152344",
+      "stationType": "变电站",
+      "stationName": "庞各庄",
+      "lonLat": [
+        116.309507,
+        39.613357
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112240",
+      "stationType": "变电站",
+      "stationName": "普安",
+      "lonLat": [
+        116.107702,
+        39.659221
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292288",
+      "stationType": "变电站",
+      "stationName": "千家店",
+      "lonLat": [
+        116.341495,
+        40.695155
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162247",
+      "stationType": "变电站",
+      "stationName": "桥梓",
+      "lonLat": [
+        116.581727,
+        40.291783
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112338",
+      "stationType": "变电站",
+      "stationName": "青龙湖",
+      "lonLat": [
+        116.055803,
+        39.780865
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282115",
+      "stationType": "变电站",
+      "stationName": "清水河",
+      "lonLat": [
+        117.125207,
+        40.541697
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152218",
+      "stationType": "变电站",
+      "stationName": "求贤",
+      "lonLat": [
+        116.29817,
+        39.517545
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112015",
+      "stationType": "变电站",
+      "stationName": "饶乐府",
+      "lonLat": [
+        116.001515,
+        39.698536
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172131",
+      "stationType": "变电站",
+      "stationName": "赛门特_不上报",
+      "lonLat": [
+        116.988,
+        40.0875
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142141",
+      "stationType": "变电站",
+      "stationName": "沙河",
+      "lonLat": [
+        116.255097,
+        40.119465
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172081",
+      "stationType": "变电站",
+      "stationName": "山东庄",
+      "lonLat": [
+        117.1648,
+        40.1895
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142122",
+      "stationType": "变电站",
+      "stationName": "山峡",
+      "lonLat": [
+        116.242637,
+        40.195224
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282182",
+      "stationType": "变电站",
+      "stationName": "商务区北",
+      "lonLat": [
+        116.83615,
+        40.355129
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142281",
+      "stationType": "变电站",
+      "stationName": "上苑",
+      "lonLat": [
+        116.455382,
+        40.21047
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142246",
+      "stationType": "变电站",
+      "stationName": "生命园",
+      "lonLat": [
+        116.26174,
+        40.094677
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152221",
+      "stationType": "变电站",
+      "stationName": "生物医药",
+      "lonLat": [
+        116.288838,
+        39.664233
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152380",
+      "stationType": "变电站",
+      "stationName": "施家务",
+      "lonLat": [
+        116.648688,
+        39.642804
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112297",
+      "stationType": "变电站",
+      "stationName": "十渡",
+      "lonLat": [
+        115.596112,
+        39.630693
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282332",
+      "stationType": "变电站",
+      "stationName": "十里堡",
+      "lonLat": [
+        116.815867,
+        40.357523
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142321",
+      "stationType": "变电站",
+      "stationName": "十三陵_退运",
+      "lonLat": [
+        116.2251,
+        40.2728
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282154",
+      "stationType": "变电站",
+      "stationName": "石城",
+      "lonLat": [
+        116.816942,
+        40.564911
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110006",
+      "stationType": "变电站",
+      "stationName": "立马",
+      "lonLat": [
+        116.1646,
+        39.7371
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110007",
+      "stationType": "变电站",
+      "stationName": "红光",
+      "lonLat": [
+        116.7744,
+        40.3738
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110008",
+      "stationType": "变电站",
+      "stationName": "陈家坟",
+      "lonLat": [
+        115.8925,
+        39.8695
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110009",
+      "stationType": "变电站",
+      "stationName": "磁家务水泥厂",
+      "lonLat": [
+        115.9925,
+        39.8143
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110010",
+      "stationType": "变电站",
+      "stationName": "邦正",
+      "lonLat": [
+        115.813,
+        39.554
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110011",
+      "stationType": "变电站",
+      "stationName": "炼铁厂",
+      "lonLat": [
+        115.6083,
+        39.657
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110012",
+      "stationType": "变电站",
+      "stationName": "化四",
+      "lonLat": [
+        116.0253,
+        39.7114
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110013",
+      "stationType": "变电站",
+      "stationName": "石楼",
+      "lonLat": [
+        115.9915,
+        39.6612
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110014",
+      "stationType": "变电站",
+      "stationName": "下胡良",
+      "lonLat": [
+        116.296,
+        39.9036
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110015",
+      "stationType": "变电站",
+      "stationName": "金隅琉水用户",
+      "lonLat": [
+        116.0478,
+        39.6076
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101110016",
+      "stationType": "变电站",
+      "stationName": "窗纱厂用户",
+      "lonLat": [
+        115.7846,
+        39.5454
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101050001",
+      "stationType": "变电站",
+      "stationName": "中央电视台",
+      "lonLat": [
+        116.4718,
+        39.9195
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101190001",
+      "stationType": "变电站",
+      "stationName": "法美高新",
+      "lonLat": [
+        116.5147,
+        39.7908
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101190002",
+      "stationType": "变电站",
+      "stationName": "中芯国际",
+      "lonLat": [
+        116.5107,
+        39.7881
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101190003",
+      "stationType": "变电站",
+      "stationName": "奔驰汽车",
+      "lonLat": [
+        116.5211,
+        39.7602
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101120001",
+      "stationType": "变电站",
+      "stationName": "潞河面粉厂",
+      "lonLat": [
+        116.6714,
+        39.8987
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101130001",
+      "stationType": "变电站",
+      "stationName": "民航港",
+      "lonLat": [
+        116.6132,
+        40.1153
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140001",
+      "stationType": "变电站",
+      "stationName": "牛家坟用户",
+      "lonLat": [
+        116.3267,
+        40.2388
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140002",
+      "stationType": "变电站",
+      "stationName": "官高",
+      "lonLat": [
+        116.3103,
+        40.2345
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140003",
+      "stationType": "变电站",
+      "stationName": "凤山矿用户",
+      "lonLat": [
+        116.1519,
+        40.1608
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140004",
+      "stationType": "变电站",
+      "stationName": "龙凤山砂石厂用户",
+      "lonLat": [
+        116.2684,
+        40.2211
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140005",
+      "stationType": "变电站",
+      "stationName": "华试所用户",
+      "lonLat": [
+        116.3807,
+        40.0761
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140006",
+      "stationType": "变电站",
+      "stationName": "北拖用户",
+      "lonLat": [
+        116.3838,
+        40.0863
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140007",
+      "stationType": "变电站",
+      "stationName": "一线材用户",
+      "lonLat": [
+        116.2656,
+        40.1207
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140008",
+      "stationType": "变电站",
+      "stationName": "一通用户",
+      "lonLat": [
+        116.2626,
+        40.1281
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140009",
+      "stationType": "变电站",
+      "stationName": "801卫星用户",
+      "lonLat": [
+        116.1669,
+        40.1355
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140010",
+      "stationType": "变电站",
+      "stationName": "国际商城用户",
+      "lonLat": [
+        116.2959,
+        40.1025
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140011",
+      "stationType": "变电站",
+      "stationName": "清华用户",
+      "lonLat": [
+        116.4212,
+        40.0796
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140012",
+      "stationType": "变电站",
+      "stationName": "水泥机械厂用户",
+      "lonLat": [
+        116.1316,
+        40.2397
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140013",
+      "stationType": "变电站",
+      "stationName": "西普用户",
+      "lonLat": [
+        116.1497,
+        40.231
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140014",
+      "stationType": "变电站",
+      "stationName": "警院用户",
+      "lonLat": [
+        116.1774,
+        40.2561
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140015",
+      "stationType": "变电站",
+      "stationName": "市政用户",
+      "lonLat": [
+        116.2492,
+        40.2194
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140016",
+      "stationType": "变电站",
+      "stationName": "北大用户",
+      "lonLat": [
+        116.2764,
+        40.1057
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140017",
+      "stationType": "变电站",
+      "stationName": "计量院用户",
+      "lonLat": [
+        116.2312,
+        40.2586
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101140018",
+      "stationType": "变电站",
+      "stationName": "红冶用户",
+      "lonLat": [
+        116.1918,
+        40.1915
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101150001",
+      "stationType": "变电站",
+      "stationName": "新机场1#移动变电站",
+      "lonLat": [
+        116.4225,
+        39.508
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101150002",
+      "stationType": "变电站",
+      "stationName": "新机场2#移动变电站",
+      "lonLat": [
+        116.4364,
+        39.5375
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101160002",
+      "stationType": "变电站",
+      "stationName": "怀柔.辛营",
+      "lonLat": [
+        116.1254,
+        40.429
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002537",
+      "stationType": "变电站",
+      "stationName": "大浮坨牵引",
+      "lonLat": [
+        115.9623,
+        40.3911
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052536",
+      "stationType": "变电站",
+      "stationName": "速滑",
+      "lonLat": [
+        116.373707,
+        40.014568
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012541",
+      "stationType": "变电站",
+      "stationName": "红桥",
+      "lonLat": [
+        116.411912,
+        39.886787
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052540",
+      "stationType": "变电站",
+      "stationName": "二号临时站",
+      "lonLat": [
+        116.462651,
+        39.910842
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002543",
+      "stationType": "变电站",
+      "stationName": "新首钢",
+      "lonLat": [
+        116.141999,
+        39.922238
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101072542",
+      "stationType": "变电站",
+      "stationName": "群明",
+      "lonLat": [
+        116.158014,
+        39.910286
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052544",
+      "stationType": "变电站",
+      "stationName": "奥体",
+      "lonLat": [
+        116.400422,
+        39.978618
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092546",
+      "stationType": "变电站",
+      "stationName": "上岸",
+      "lonLat": [
+        116.115234,
+        39.90117
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292545",
+      "stationType": "变电站",
+      "stationName": "冬奥村",
+      "lonLat": [
+        115.75411,
+        40.5108
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292548",
+      "stationType": "变电站",
+      "stationName": "永东",
+      "lonLat": [
+        116.176316,
+        40.522779
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052549",
+      "stationType": "变电站",
+      "stationName": "黄港",
+      "lonLat": [
+        116.456438,
+        40.05718
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192550",
+      "stationType": "变电站",
+      "stationName": "瑞新",
+      "lonLat": [
+        116.505966,
+        39.72931
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162551",
+      "stationType": "变电站",
+      "stationName": "汤河口",
+      "lonLat": [
+        116.627374,
+        40.728631
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002552",
+      "stationType": "变电站",
+      "stationName": "黄土店牵引",
+      "lonLat": [
+        116.3347,
+        40.0732
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082553",
+      "stationType": "变电站",
+      "stationName": "玉河",
+      "lonLat": [
+        116.251921,
+        40.095736
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082554",
+      "stationType": "变电站",
+      "stationName": "稻香湖",
+      "lonLat": [
+        116.179157,
+        40.073651
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122555",
+      "stationType": "变电站",
+      "stationName": "大高力",
+      "lonLat": [
+        116.684543,
+        39.858277
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101072556",
+      "stationType": "变电站",
+      "stationName": "刘娘府",
+      "lonLat": [
+        116.186236,
+        39.941664
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282557",
+      "stationType": "变电站",
+      "stationName": "大城子",
+      "lonLat": [
+        117.113021,
+        40.397576
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002558",
+      "stationType": "变电站",
+      "stationName": "玉渊潭",
+      "lonLat": [
+        116.31134,
+        39.91065
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002559",
+      "stationType": "变电站",
+      "stationName": "岳各庄",
+      "lonLat": [
+        116.263521,
+        39.876084
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002560",
+      "stationType": "变电站",
+      "stationName": "副中心",
+      "lonLat": [
+        116.732173,
+        39.905051
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002561",
+      "stationType": "变电站",
+      "stationName": "塘峪",
+      "lonLat": [
+        116.930583,
+        40.373157
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121310000214",
+      "stationType": "变电站",
+      "stationName": "燕郊站",
+      "lonLat": [
+        116.846363,
+        39.972137
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052562",
+      "stationType": "变电站",
+      "stationName": "百子湾",
+      "lonLat": [
+        116.497575,
+        39.888872
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101072563",
+      "stationType": "变电站",
+      "stationName": "炼钢",
+      "lonLat": [
+        116.175288,
+        39.904508
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112564",
+      "stationType": "变电站",
+      "stationName": "石化",
+      "lonLat": [
+        115.983945,
+        39.740222
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002584",
+      "stationType": "变电站",
+      "stationName": "星火牵引",
+      "lonLat": [
+        116.50764,
+        39.94428
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002596",
+      "stationType": "变电站",
+      "stationName": "瑞合",
+      "lonLat": [
+        116.5211,
+        39.7602
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092305",
+      "stationType": "变电站",
+      "stationName": "石门营",
+      "lonLat": [
+        116.10572,
+        39.892773
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142185",
+      "stationType": "变电站",
+      "stationName": "史各庄",
+      "lonLat": [
+        116.289298,
+        40.107653
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112334",
+      "stationType": "变电站",
+      "stationName": "史家营",
+      "lonLat": [
+        115.663163,
+        39.859663
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112112",
+      "stationType": "变电站",
+      "stationName": "水碾屯",
+      "lonLat": [
+        116.181018,
+        39.717633
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142214",
+      "stationType": "变电站",
+      "stationName": "水屯",
+      "lonLat": [
+        116.214914,
+        40.207556
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132455",
+      "stationType": "变电站",
+      "stationName": "水源地_作废",
+      "lonLat": [
+        116.5137,
+        40.2557
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132092",
+      "stationType": "变电站",
+      "stationName": "顺新",
+      "lonLat": [
+        116.642045,
+        40.153991
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282197",
+      "stationType": "变电站",
+      "stationName": "司马台",
+      "lonLat": [
+        117.256224,
+        40.641806
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292230",
+      "stationType": "变电站",
+      "stationName": "四海",
+      "lonLat": [
+        116.404735,
+        40.529413
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142342",
+      "stationType": "变电站",
+      "stationName": "松兰堡",
+      "lonLat": [
+        116.290116,
+        40.153627
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292171",
+      "stationType": "变电站",
+      "stationName": "松山",
+      "lonLat": [
+        115.833948,
+        40.46769
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282421",
+      "stationType": "变电站",
+      "stationName": "太子务",
+      "lonLat": [
+        116.78963,
+        40.41062
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092217",
+      "stationType": "变电站",
+      "stationName": "潭柘寺",
+      "lonLat": [
+        116.0404,
+        39.8756
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282235",
+      "stationType": "变电站",
+      "stationName": "檀营",
+      "lonLat": [
+        116.869819,
+        40.386695
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162113",
+      "stationType": "变电站",
+      "stationName": "汤河口",
+      "lonLat": [
+        116.646,
+        40.742
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282032",
+      "stationType": "变电站",
+      "stationName": "唐庄",
+      "lonLat": [
+        116.830522,
+        40.390703
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112031",
+      "stationType": "变电站",
+      "stationName": "堂上",
+      "lonLat": [
+        115.574828,
+        39.791409
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142058",
+      "stationType": "变电站",
+      "stationName": "桃洼",
+      "lonLat": [
+        116.073638,
+        40.202299
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152027",
+      "stationType": "变电站",
+      "stationName": "天宫院",
+      "lonLat": [
+        116.319488,
+        39.682699
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152423",
+      "stationType": "变电站",
+      "stationName": "天堂河",
+      "lonLat": [
+        116.344946,
+        39.675598
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132066",
+      "stationType": "变电站",
+      "stationName": "天竺",
+      "lonLat": [
+        116.554011,
+        40.054905
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152256",
+      "stationType": "变电站",
+      "stationName": "同心庄",
+      "lonLat": [
+        116.444121,
+        39.742169
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282157",
+      "stationType": "变电站",
+      "stationName": "统军庄",
+      "lonLat": [
+        116.759724,
+        40.380448
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112237",
+      "stationType": "变电站",
+      "stationName": "瓦窑头",
+      "lonLat": [
+        116.055482,
+        39.662563
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132312",
+      "stationType": "变电站",
+      "stationName": "王泮庄",
+      "lonLat": [
+        116.817705,
+        40.236073
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142030",
+      "stationType": "变电站",
+      "stationName": "王庄",
+      "lonLat": [
+        116.253905,
+        40.152559
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152189",
+      "stationType": "变电站",
+      "stationName": "魏善庄",
+      "lonLat": [
+        116.408124,
+        39.673111
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132292",
+      "stationType": "变电站",
+      "stationName": "温榆河",
+      "lonLat": [
+        116.524459,
+        40.08134
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112286",
+      "stationType": "变电站",
+      "stationName": "五侯",
+      "lonLat": [
+        115.903189,
+        39.608096
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132399",
+      "stationType": "变电站",
+      "stationName": "西府",
+      "lonLat": [
+        116.740594,
+        40.195641
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152039",
+      "stationType": "变电站",
+      "stationName": "西红门",
+      "lonLat": [
+        116.319629,
+        39.779335
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292271",
+      "stationType": "变电站",
+      "stationName": "西红寺",
+      "lonLat": [
+        115.920823,
+        40.390966
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292415",
+      "stationType": "变电站",
+      "stationName": "西湖",
+      "lonLat": [
+        115.92836,
+        40.447565
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132390",
+      "stationType": "变电站",
+      "stationName": "西辛",
+      "lonLat": [
+        116.633683,
+        40.132768
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282228",
+      "stationType": "变电站",
+      "stationName": "西智",
+      "lonLat": [
+        116.84,
+        40.43
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112329",
+      "stationType": "变电站",
+      "stationName": "霞云岭",
+      "lonLat": [
+        115.736115,
+        39.723691
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162074",
+      "stationType": "变电站",
+      "stationName": "下元",
+      "lonLat": [
+        116.63813,
+        40.321645
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172295",
+      "stationType": "变电站",
+      "stationName": "夏各庄",
+      "lonLat": [
+        117.16894,
+        40.128099
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142097",
+      "stationType": "变电站",
+      "stationName": "香屯",
+      "lonLat": [
+        116.404806,
+        40.182748
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082364",
+      "stationType": "变电站",
+      "stationName": "新肖庄",
+      "lonLat": [
+        116.334393,
+        40.001168
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142261",
+      "stationType": "变电站",
+      "stationName": "小汤山",
+      "lonLat": [
+        116.378288,
+        40.173364
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152114",
+      "stationType": "变电站",
+      "stationName": "小营",
+      "lonLat": [
+        116.327511,
+        39.59124
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152343",
+      "stationType": "变电站",
+      "stationName": "辛庄",
+      "lonLat": [
+        116.270367,
+        39.750159
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282309",
+      "stationType": "变电站",
+      "stationName": "新城子",
+      "lonLat": [
+        117.326596,
+        40.642288
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132002",
+      "stationType": "变电站",
+      "stationName": "新国展",
+      "lonLat": [
+        116.538685,
+        40.070247
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062059",
+      "stationType": "变电站",
+      "stationName": "长辛店",
+      "lonLat": [
+        116.20242,
+        39.83558
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152457",
+      "stationType": "变电站",
+      "stationName": "邢各庄",
+      "lonLat": [
+        116.381462,
+        39.7157
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172424",
+      "stationType": "变电站",
+      "stationName": "兴谷",
+      "lonLat": [
+        117.102917,
+        40.166036
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152452",
+      "stationType": "变电站",
+      "stationName": "兴华",
+      "lonLat": [
+        116.328507,
+        39.761438
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112222",
+      "stationType": "变电站",
+      "stationName": "兴礼",
+      "lonLat": [
+        116.070328,
+        39.59327
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172219",
+      "stationType": "变电站",
+      "stationName": "兴隆",
+      "lonLat": [
+        117.011523,
+        40.19116
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142132",
+      "stationType": "变电站",
+      "stationName": "兴寿",
+      "lonLat": [
+        116.40594,
+        40.227076
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292068",
+      "stationType": "变电站",
+      "stationName": "旧延庆",
+      "lonLat": [
+        116.01,
+        40.46
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292004",
+      "stationType": "变电站",
+      "stationName": "延西",
+      "lonLat": [
+        115.965628,
+        40.477475
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132407",
+      "stationType": "变电站",
+      "stationName": "沿河",
+      "lonLat": [
+        116.71,
+        40.06
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162377",
+      "stationType": "变电站",
+      "stationName": "雁栖湖",
+      "lonLat": [
+        116.650665,
+        40.380439
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142110",
+      "stationType": "变电站",
+      "stationName": "央企园",
+      "lonLat": [
+        116.455324,
+        40.136715
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142156",
+      "stationType": "变电站",
+      "stationName": "阳坊北",
+      "lonLat": [
+        116.137017,
+        40.145087
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132078",
+      "stationType": "变电站",
+      "stationName": "杨镇",
+      "lonLat": [
+        116.823647,
+        40.147101
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152325",
+      "stationType": "变电站",
+      "stationName": "义和庄",
+      "lonLat": [
+        116.294622,
+        39.72442
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172147",
+      "stationType": "变电站",
+      "stationName": "英城",
+      "lonLat": [
+        117.0191,
+        40.0892
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152437",
+      "stationType": "变电站",
+      "stationName": "瀛海",
+      "lonLat": [
+        116.444044,
+        39.736149
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152142",
+      "stationType": "变电站",
+      "stationName": "永和庄",
+      "lonLat": [
+        116.569347,
+        39.661408
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002599",
+      "stationType": "变电站",
+      "stationName": "白河牵引",
+      "lonLat": [
+        116.806897,
+        40.331363
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002603",
+      "stationType": "变电站",
+      "stationName": "航天一院",
+      "lonLat": [
+        116.409376,
+        39.84148
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002612",
+      "stationType": "变电站",
+      "stationName": "齐庄",
+      "lonLat": [
+        116.30438,
+        39.866484
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052580",
+      "stationType": "变电站",
+      "stationName": "国会",
+      "lonLat": [
+        116.381872,
+        40.003253
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082611",
+      "stationType": "变电站",
+      "stationName": "首体",
+      "lonLat": [
+        116.320036,
+        39.940264
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122597",
+      "stationType": "变电站",
+      "stationName": "田府",
+      "lonLat": [
+        116.658268,
+        39.858463
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132573",
+      "stationType": "变电站",
+      "stationName": "于庄",
+      "lonLat": [
+        116.491905,
+        40.116284
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192587",
+      "stationType": "变电站",
+      "stationName": "标厂",
+      "lonLat": [
+        116.533277,
+        39.796879
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010014",
+      "stationType": "变电站",
+      "stationName": "金山岭",
+      "lonLat": [
+        117.4094,
+        40.9775
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010002",
+      "stationType": "变电站",
+      "stationName": "尚义",
+      "lonLat": [
+        114.109,
+        41.3103
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010006",
+      "stationType": "变电站",
+      "stationName": "姜家营",
+      "lonLat": [
+        118.2399,
+        39.8962
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010033",
+      "stationType": "变电站",
+      "stationName": "沽源",
+      "lonLat": [
+        115.79886,
+        41.445058
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062613",
+      "stationType": "变电站",
+      "stationName": "张郭庄",
+      "lonLat": [
+        116.177515,
+        39.853084
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122614",
+      "stationType": "变电站",
+      "stationName": "丛林庄",
+      "lonLat": [
+        116.3504,
+        39.7541
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082617",
+      "stationType": "变电站",
+      "stationName": "后屯",
+      "lonLat": [
+        116.352958,
+        40.051419
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152618",
+      "stationType": "变电站",
+      "stationName": "寿宝庄",
+      "lonLat": [
+        116.365289,
+        39.77946
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092619",
+      "stationType": "变电站",
+      "stationName": "潭柘寺",
+      "lonLat": [
+        116.031012,
+        39.879357
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062620",
+      "stationType": "变电站",
+      "stationName": "丰益",
+      "lonLat": [
+        116.314447,
+        39.861132
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292621",
+      "stationType": "变电站",
+      "stationName": "延庆",
+      "lonLat": [
+        116.002393,
+        40.466765
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192623",
+      "stationType": "变电站",
+      "stationName": "同宁",
+      "lonLat": [
+        116.564467,
+        39.780575
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292624",
+      "stationType": "变电站",
+      "stationName": "阪泉",
+      "lonLat": [
+        115.954519,
+        40.483995
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162625",
+      "stationType": "变电站",
+      "stationName": "喇叭沟门",
+      "lonLat": [
+        116.616782,
+        40.895353
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101130002",
+      "stationType": "变电站",
+      "stationName": "紫微星",
+      "lonLat": [
+        116.627152,
+        40.125999
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002626",
+      "stationType": "变电站",
+      "stationName": "画乡",
+      "lonLat": [
+        116.710047,
+        39.984325
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092627",
+      "stationType": "变电站",
+      "stationName": "斋堂",
+      "lonLat": [
+        115.700521,
+        39.978798
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162629",
+      "stationType": "变电站",
+      "stationName": "科学城东",
+      "lonLat": [
+        116.698191,
+        40.375581
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152630",
+      "stationType": "变电站",
+      "stationName": "诸葛营",
+      "lonLat": [
+        116.278117,
+        39.673165
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192631",
+      "stationType": "变电站",
+      "stationName": "云和",
+      "lonLat": [
+        116.494128,
+        39.726273
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002632",
+      "stationType": "变电站",
+      "stationName": "长安",
+      "lonLat": [
+        116.108125,
+        39.659691
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002633",
+      "stationType": "变电站",
+      "stationName": "经海",
+      "lonLat": [
+        116.531377,
+        39.795803
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152634",
+      "stationType": "变电站",
+      "stationName": "高米店",
+      "lonLat": [
+        116.3435,
+        39.768758
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282635",
+      "stationType": "变电站",
+      "stationName": "西智",
+      "lonLat": [
+        116.826209,
+        40.450707
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152636",
+      "stationType": "变电站",
+      "stationName": "综保区",
+      "lonLat": [
+        116.447953,
+        39.537212
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082637",
+      "stationType": "变电站",
+      "stationName": "金沟河",
+      "lonLat": [
+        116.256479,
+        39.912893
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082638",
+      "stationType": "变电站",
+      "stationName": "三号临时站",
+      "lonLat": [
+        116.282642,
+        40.034339
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142674",
+      "stationType": "变电站",
+      "stationName": "上坡",
+      "lonLat": [
+        116.357857,
+        40.081459
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002676",
+      "stationType": "变电站",
+      "stationName": "张仪新",
+      "lonLat": [
+        116.219936,
+        39.876644
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052677",
+      "stationType": "变电站",
+      "stationName": "工体",
+      "lonLat": [
+        116.45323,
+        39.93378
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121100002678",
+      "stationType": "变电站",
+      "stationName": "柴务",
+      "lonLat": [
+        116.56656,
+        39.724287
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122679",
+      "stationType": "变电站",
+      "stationName": "永开",
+      "lonLat": [
+        116.771391,
+        39.615461
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082680",
+      "stationType": "变电站",
+      "stationName": "土井",
+      "lonLat": [
+        116.25276,
+        40.054556
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292319",
+      "stationType": "变电站",
+      "stationName": "永宁",
+      "lonLat": [
+        116.163446,
+        40.531842
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112160",
+      "stationType": "变电站",
+      "stationName": "于庄",
+      "lonLat": [
+        116.068,
+        39.685
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152057",
+      "stationType": "变电站",
+      "stationName": "榆垡",
+      "lonLat": [
+        116.322975,
+        39.52188
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092117",
+      "stationType": "变电站",
+      "stationName": "峪东",
+      "lonLat": [
+        116.111571,
+        39.928755
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172054",
+      "stationType": "变电站",
+      "stationName": "峪口",
+      "lonLat": [
+        116.991163,
+        40.17923
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112013",
+      "stationType": "变电站",
+      "stationName": "元庄",
+      "lonLat": [
+        116.105181,
+        39.623715
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101172298",
+      "stationType": "变电站",
+      "stationName": "云峰寺",
+      "lonLat": [
+        117.01749,
+        40.13488
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162025",
+      "stationType": "变电站",
+      "stationName": "宰相庄",
+      "lonLat": [
+        116.692819,
+        40.346139
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162118",
+      "stationType": "变电站",
+      "stationName": "枣树林",
+      "lonLat": [
+        116.667395,
+        40.536978
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112406",
+      "stationType": "变电站",
+      "stationName": "张坊",
+      "lonLat": [
+        115.69411,
+        39.571434
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101152357",
+      "stationType": "变电站",
+      "stationName": "张华",
+      "lonLat": [
+        116.318121,
+        39.527579
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292272",
+      "stationType": "变电站",
+      "stationName": "张山营",
+      "lonLat": [
+        115.8601,
+        40.48
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132394",
+      "stationType": "变电站",
+      "stationName": "张镇",
+      "lonLat": [
+        116.933187,
+        40.139972
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112024",
+      "stationType": "变电站",
+      "stationName": "长沟",
+      "lonLat": [
+        115.874749,
+        39.575594
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132382",
+      "stationType": "变电站",
+      "stationName": "长林",
+      "lonLat": [
+        116.766953,
+        40.24738
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132050",
+      "stationType": "变电站",
+      "stationName": "赵全营",
+      "lonLat": [
+        116.584248,
+        40.211172
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142008",
+      "stationType": "变电站",
+      "stationName": "郑各庄",
+      "lonLat": [
+        116.356621,
+        40.113236
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122259",
+      "stationType": "变电站",
+      "stationName": "政协西",
+      "lonLat": [
+        116.707024,
+        39.900353
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101092389",
+      "stationType": "变电站",
+      "stationName": "中门寺",
+      "lonLat": [
+        116.082805,
+        39.9325
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282125",
+      "stationType": "变电站",
+      "stationName": "中庄",
+      "lonLat": [
+        116.819528,
+        40.330358
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162190",
+      "stationType": "变电站",
+      "stationName": "周各庄",
+      "lonLat": [
+        116.690359,
+        40.31922
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112265",
+      "stationType": "变电站",
+      "stationName": "周口店",
+      "lonLat": [
+        115.920462,
+        39.657879
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102282075",
+      "stationType": "变电站",
+      "stationName": "铸钢",
+      "lonLat": [
+        116.886545,
+        40.393193
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132368",
+      "stationType": "变电站",
+      "stationName": "庄子营",
+      "lonLat": [
+        116.642861,
+        40.05558
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112082",
+      "stationType": "变电站",
+      "stationName": "紫草坞",
+      "lonLat": [
+        116.037959,
+        39.755729
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052404",
+      "stationType": "变电站",
+      "stationName": "安慧",
+      "lonLat": [
+        116.393408,
+        39.992971
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052275",
+      "stationType": "变电站",
+      "stationName": "北极寺",
+      "lonLat": [
+        116.380723,
+        39.980773
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052347",
+      "stationType": "变电站",
+      "stationName": "北京电视台",
+      "lonLat": [
+        116.462735,
+        39.906205
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052413",
+      "stationType": "变电站",
+      "stationName": "北土城",
+      "lonLat": [
+        116.40306,
+        39.982448
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052284",
+      "stationType": "变电站",
+      "stationName": "常营",
+      "lonLat": [
+        116.597874,
+        39.924009
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052063",
+      "stationType": "变电站",
+      "stationName": "慈云寺",
+      "lonLat": [
+        116.490223,
+        39.908611
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052450",
+      "stationType": "变电站",
+      "stationName": "崔各庄",
+      "lonLat": [
+        116.46875,
+        40.019475
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052093",
+      "stationType": "变电站",
+      "stationName": "大北窑",
+      "lonLat": [
+        116.452187,
+        39.908134
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052278",
+      "stationType": "变电站",
+      "stationName": "单店",
+      "lonLat": [
+        116.537311,
+        39.947719
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052226",
+      "stationType": "变电站",
+      "stationName": "东湖",
+      "lonLat": [
+        116.463244,
+        40.010747
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052049",
+      "stationType": "变电站",
+      "stationName": "光华路",
+      "lonLat": [
+        116.453916,
+        39.914306
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052294",
+      "stationType": "变电站",
+      "stationName": "国贸",
+      "lonLat": [
+        116.454574,
+        39.911186
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052340",
+      "stationType": "变电站",
+      "stationName": "国棉",
+      "lonLat": [
+        116.502349,
+        39.912952
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052224",
+      "stationType": "变电站",
+      "stationName": "航华",
+      "lonLat": [
+        116.457843,
+        39.905719
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052159",
+      "stationType": "变电站",
+      "stationName": "花家地",
+      "lonLat": [
+        116.468822,
+        39.986609
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052212",
+      "stationType": "变电站",
+      "stationName": "黄厂",
+      "lonLat": [
+        116.5476,
+        39.863129
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052384",
+      "stationType": "变电站",
+      "stationName": "慧祥",
+      "lonLat": [
+        116.380175,
+        39.997507
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052162",
+      "stationType": "变电站",
+      "stationName": "来广营",
+      "lonLat": [
+        116.425285,
+        40.038161
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052387",
+      "stationType": "变电站",
+      "stationName": "马泉营",
+      "lonLat": [
+        116.487166,
+        40.035139
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052155",
+      "stationType": "变电站",
+      "stationName": "三元",
+      "lonLat": [
+        116.437294,
+        39.973263
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052283",
+      "stationType": "变电站",
+      "stationName": "神路街",
+      "lonLat": [
+        116.439227,
+        39.921325
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052204",
+      "stationType": "变电站",
+      "stationName": "通盈",
+      "lonLat": [
+        116.448094,
+        39.931902
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052442",
+      "stationType": "变电站",
+      "stationName": "望京东",
+      "lonLat": [
+        116.474368,
+        39.993171
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052365",
+      "stationType": "变电站",
+      "stationName": "新凤村",
+      "lonLat": [
+        116.457968,
+        39.945658
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101052373",
+      "stationType": "变电站",
+      "stationName": "周庄",
+      "lonLat": [
+        116.470499,
+        39.864026
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012163",
+      "stationType": "变电站",
+      "stationName": "白塔寺",
+      "lonLat": [
+        116.356182,
+        39.919823
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012135",
+      "stationType": "变电站",
+      "stationName": "白云桥",
+      "lonLat": [
+        116.328035,
+        39.894323
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012440",
+      "stationType": "变电站",
+      "stationName": "北城",
+      "lonLat": [
+        116.383806,
+        39.949651
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012052",
+      "stationType": "变电站",
+      "stationName": "崇文门",
+      "lonLat": [
+        116.410211,
+        39.898171
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012229",
+      "stationType": "变电站",
+      "stationName": "东城",
+      "lonLat": [
+        116.427024,
+        39.926877
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012139",
+      "stationType": "变电站",
+      "stationName": "东单",
+      "lonLat": [
+        116.417102,
+        39.905222
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012127",
+      "stationType": "变电站",
+      "stationName": "东直门",
+      "lonLat": [
+        116.430849,
+        39.948966
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012273",
+      "stationType": "变电站",
+      "stationName": "复兴门",
+      "lonLat": [
+        116.354428,
+        39.912123
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012021",
+      "stationType": "变电站",
+      "stationName": "阜成门",
+      "lonLat": [
+        116.348287,
+        39.9264
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012174",
+      "stationType": "变电站",
+      "stationName": "广安门",
+      "lonLat": [
+        116.344614,
+        39.88747
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012337",
+      "stationType": "变电站",
+      "stationName": "隆福寺",
+      "lonLat": [
+        116.408506,
+        39.924869
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012245",
+      "stationType": "变电站",
+      "stationName": "木樨园",
+      "lonLat": [
+        116.389651,
+        39.858214
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012289",
+      "stationType": "变电站",
+      "stationName": "牛街",
+      "lonLat": [
+        116.356494,
+        39.880118
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012153",
+      "stationType": "变电站",
+      "stationName": "前门",
+      "lonLat": [
+        116.385119,
+        39.899995
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012274",
+      "stationType": "变电站",
+      "stationName": "人定湖",
+      "lonLat": [
+        116.372654,
+        39.954626
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012124",
+      "stationType": "变电站",
+      "stationName": "天坛",
+      "lonLat": [
+        116.395252,
+        39.871721
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012328",
+      "stationType": "变电站",
+      "stationName": "西单",
+      "lonLat": [
+        116.369618,
+        39.910005
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012311",
+      "stationType": "变电站",
+      "stationName": "香河园",
+      "lonLat": [
+        116.428906,
+        39.941505
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012449",
+      "stationType": "变电站",
+      "stationName": "新东安",
+      "lonLat": [
+        116.406336,
+        39.913354
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012234",
+      "stationType": "变电站",
+      "stationName": "新街口",
+      "lonLat": [
+        116.35889,
+        39.935969
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012022",
+      "stationType": "变电站",
+      "stationName": "宣武门",
+      "lonLat": [
+        116.370973,
+        39.897433
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012181",
+      "stationType": "变电站",
+      "stationName": "右安门",
+      "lonLat": [
+        116.335225,
+        39.876554
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012276",
+      "stationType": "变电站",
+      "stationName": "月坛",
+      "lonLat": [
+        116.335896,
+        39.908907
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062046",
+      "stationType": "变电站",
+      "stationName": "成寿寺",
+      "lonLat": [
+        116.433086,
+        39.855949
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062028",
+      "stationType": "变电站",
+      "stationName": "崔村",
+      "lonLat": [
+        116.179811,
+        39.82831
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062257",
+      "stationType": "变电站",
+      "stationName": "东管头",
+      "lonLat": [
+        116.326846,
+        39.865236
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062303",
+      "stationType": "变电站",
+      "stationName": "樊家村",
+      "lonLat": [
+        116.317954,
+        39.84355
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062043",
+      "stationType": "变电站",
+      "stationName": "高鑫",
+      "lonLat": [
+        116.293799,
+        39.798488
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062109",
+      "stationType": "变电站",
+      "stationName": "和义",
+      "lonLat": [
+        116.387736,
+        39.817205
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062150",
+      "stationType": "变电站",
+      "stationName": "开阳里",
+      "lonLat": [
+        116.361262,
+        39.863819
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062352",
+      "stationType": "变电站",
+      "stationName": "六里桥",
+      "lonLat": [
+        116.301972,
+        39.866424
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062381",
+      "stationType": "变电站",
+      "stationName": "青塔",
+      "lonLat": [
+        116.250591,
+        39.88595
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062207",
+      "stationType": "变电站",
+      "stationName": "宋家庄",
+      "lonLat": [
+        116.431452,
+        39.841033
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062138",
+      "stationType": "变电站",
+      "stationName": "小井",
+      "lonLat": [
+        116.287438,
+        39.881771
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062169",
+      "stationType": "变电站",
+      "stationName": "新发地",
+      "lonLat": [
+        116.322683,
+        39.812478
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101062402",
+      "stationType": "变电站",
+      "stationName": "云岗",
+      "lonLat": [
+        116.166063,
+        39.7997
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082191",
+      "stationType": "变电站",
+      "stationName": "北太平庄",
+      "lonLat": [
+        116.368177,
+        39.973446
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082296",
+      "stationType": "变电站",
+      "stationName": "大钟寺",
+      "lonLat": [
+        116.333946,
+        39.965457
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082120",
+      "stationType": "变电站",
+      "stationName": "动物园",
+      "lonLat": [
+        116.323141,
+        39.942738
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082431",
+      "stationType": "变电站",
+      "stationName": "甘家口",
+      "lonLat": [
+        116.325006,
+        39.923676
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082083",
+      "stationType": "变电站",
+      "stationName": "公主坟",
+      "lonLat": [
+        116.305742,
+        39.908493
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082220",
+      "stationType": "变电站",
+      "stationName": "航天城",
+      "lonLat": [
+        116.264688,
+        40.070993
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082270",
+      "stationType": "变电站",
+      "stationName": "环保园",
+      "lonLat": [
+        116.157819,
+        40.060883
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082411",
+      "stationType": "变电站",
+      "stationName": "皇后店",
+      "lonLat": [
+        116.234396,
+        40.081284
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082254",
+      "stationType": "变电站",
+      "stationName": "蓝靛厂",
+      "lonLat": [
+        116.282901,
+        39.952812
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082133",
+      "stationType": "变电站",
+      "stationName": "六郎庄",
+      "lonLat": [
+        116.290636,
+        39.974227
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082158",
+      "stationType": "变电站",
+      "stationName": "青龙桥",
+      "lonLat": [
+        116.261307,
+        40.002152
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082038",
+      "stationType": "变电站",
+      "stationName": "沙窝",
+      "lonLat": [
+        116.274808,
+        39.897368
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082360",
+      "stationType": "变电站",
+      "stationName": "苏州街",
+      "lonLat": [
+        116.304223,
+        39.981621
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082123",
+      "stationType": "变电站",
+      "stationName": "田村",
+      "lonLat": [
+        116.233933,
+        39.92621
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082100",
+      "stationType": "变电站",
+      "stationName": "文教区",
+      "lonLat": [
+        116.323655,
+        39.964762
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082096",
+      "stationType": "变电站",
+      "stationName": "五棵松",
+      "lonLat": [
+        116.276443,
+        39.913529
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082388",
+      "stationType": "变电站",
+      "stationName": "西平庄",
+      "lonLat": [
+        116.230787,
+        39.950645
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082149",
+      "stationType": "变电站",
+      "stationName": "西三旗",
+      "lonLat": [
+        116.359668,
+        40.052426
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082435",
+      "stationType": "变电站",
+      "stationName": "学院路",
+      "lonLat": [
+        116.350287,
+        39.986259
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082333",
+      "stationType": "变电站",
+      "stationName": "中关村",
+      "lonLat": [
+        116.324504,
+        39.983708
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082267",
+      "stationType": "变电站",
+      "stationName": "紫竹院",
+      "lonLat": [
+        116.296619,
+        39.944941
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122375",
+      "stationType": "变电站",
+      "stationName": "光机电",
+      "lonLat": [
+        116.5443,
+        39.817008
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122087",
+      "stationType": "变电站",
+      "stationName": "梨园",
+      "lonLat": [
+        116.645939,
+        39.861601
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122045",
+      "stationType": "变电站",
+      "stationName": "徐辛庄",
+      "lonLat": [
+        116.652664,
+        39.98578
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122369",
+      "stationType": "变电站",
+      "stationName": "永新",
+      "lonLat": [
+        116.814488,
+        39.718124
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122304",
+      "stationType": "变电站",
+      "stationName": "周易",
+      "lonLat": [
+        116.558161,
+        39.743998
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101122371",
+      "stationType": "变电站",
+      "stationName": "疃里",
+      "lonLat": [
+        116.70151,
+        39.941782
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192227",
+      "stationType": "变电站",
+      "stationName": "博兴",
+      "lonLat": [
+        116.523024,
+        39.753874
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192056",
+      "stationType": "变电站",
+      "stationName": "京东方",
+      "lonLat": [
+        116.506189,
+        39.779677
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192216",
+      "stationType": "变电站",
+      "stationName": "科创街",
+      "lonLat": [
+        116.544331,
+        39.792985
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192346",
+      "stationType": "变电站",
+      "stationName": "文化园",
+      "lonLat": [
+        116.491779,
+        39.8045
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132682",
+      "stationType": "变电站",
+      "stationName": "胡各庄",
+      "lonLat": [
+        116.689062,
+        40.079586
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121302000009",
+      "stationType": "变电站",
+      "stationName": "董代庄站",
+      "lonLat": [
+        117.995,
+        39.4368
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121302000012",
+      "stationType": "变电站",
+      "stationName": "车轴山站",
+      "lonLat": [
+        118.1027,
+        39.7434
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121302000035",
+      "stationType": "变电站",
+      "stationName": "郝庄站",
+      "lonLat": [
+        118.3977,
+        39.9153
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121302000039",
+      "stationType": "变电站",
+      "stationName": "常庄站",
+      "lonLat": [
+        118.2058,
+        39.7969
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121303000002",
+      "stationType": "变电站",
+      "stationName": "徐庄",
+      "lonLat": [
+        119.5353,
+        39.9854
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121310000001",
+      "stationType": "变电站",
+      "stationName": "翟各庄",
+      "lonLat": [
+        116.9805,
+        39.9461
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010007",
+      "stationType": "变电站",
+      "stationName": "霸州",
+      "lonLat": [
+        116.6269,
+        39.1288
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1129909010017",
+      "stationType": "变电站",
+      "stationName": "承德",
+      "lonLat": [
+        118.2383,
+        40.9336
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162683",
+      "stationType": "变电站",
+      "stationName": "九渡河",
+      "lonLat": [
+        116.378631,
+        40.360852
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101082684",
+      "stationType": "变电站",
+      "stationName": "四号临时站",
+      "lonLat": [
+        116.129264,
+        40.099245
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121102292685",
+      "stationType": "变电站",
+      "stationName": "米粮屯",
+      "lonLat": [
+        116.075532,
+        40.550538
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101192686",
+      "stationType": "变电站",
+      "stationName": "亦芯城",
+      "lonLat": [
+        116.539133,
+        39.792986
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132687",
+      "stationType": "变电站",
+      "stationName": "张喜庄",
+      "lonLat": [
+        116.568473,
+        40.16486
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162688",
+      "stationType": "变电站",
+      "stationName": "琉璃庙临时站",
+      "lonLat": [
+        116.650175,
+        40.622713
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101142689",
+      "stationType": "变电站",
+      "stationName": "农学院",
+      "lonLat": [
+        116.313945,
+        40.088417
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101162691",
+      "stationType": "变电站",
+      "stationName": "安各庄",
+      "lonLat": [
+        116.686006,
+        40.330605
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101072694",
+      "stationType": "变电站",
+      "stationName": "北辛安",
+      "lonLat": [
+        116.161302,
+        39.921483
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101132695",
+      "stationType": "变电站",
+      "stationName": "双丰",
+      "lonLat": [
+        116.655457,
+        40.18638
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101012696",
+      "stationType": "变电站",
+      "stationName": "望坛",
+      "lonLat": [
+        116.539132,
+        39.792985
+      ],
+      "height": 32000,
+      "markerState": false
+    },
+    {
+      "stationId": "1121101112835",
+      "stationType": "变电站",
+      "stationName": "京良",
+      "lonLat": [
+        116.2087,
+        39.7426
+      ],
+      "height": 32000,
+      "markerState": false
+    }
+  ]
+}
